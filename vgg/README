@@ -1,0 +1,8 @@
+Training:
+    qsub train.sh
+
+Writing the class probabilities for each frame of the test set to a file:
+    qsub forward.sh
+
+Evaluating the result:
+    ./eval.py <probability-file> <ground-truth-label-file> <number-of-classes>

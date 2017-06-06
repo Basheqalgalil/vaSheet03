@@ -1,0 +1,3 @@
+2017-03-30.11-52-35 vim weights-fc8-1.matrix.gz 
+2017-03-30.11-52-39 rm weights-fc8-1.matrix.gz 
+2017-03-30.11-52-46 rm bias-layer-8-1.vector.gz 

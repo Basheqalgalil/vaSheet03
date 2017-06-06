@@ -1,0 +1,12 @@
+#!/bin/bash
+export N_SUBTASKS=1
+export SUBTASK_ID=1
+
+    source /home/richard/Tools/tools.sh
+
+    mkdir -p log results
+
+    #run "./executables/neural-network-trainer --config=config/forward.config $OPTIONS"
+    run "/home/richard/squirrel/trunk/src/Nn/neural-network-trainer --config=config/forward.config $OPTIONS"
+
+

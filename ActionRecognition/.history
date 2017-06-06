@@ -1,0 +1,1341 @@
+2016-05-06.18-06-13 make clean
+2016-05-06.18-06-19 make
+2016-05-10.13-18-08 make clean
+2016-05-10.13-18-13 make
+2016-05-10.13-18-20 cp action-detector ../../../executables/
+2016-07-26.11-50-13 make clean
+2016-07-26.11-50-18 make
+2016-07-26.11-50-24 cp action-detector ../../../executables/
+2016-07-26.11-51-59 cp action-detector ../../../executables/
+2016-07-26.11-53-30 cp action-detector ../../../executables/
+2016-07-26.11-58-25 cp action-detector ../../../executables/
+2016-07-26.12-00-03 cp action-detector ../../../executables/
+2016-07-26.12-01-00 cp action-detector ../../../executables/
+2016-07-26.12-06-54 cp action-detector ../../../executables/
+2016-07-26.16-54-17 make clean
+2016-07-26.16-54-22 make
+2016-07-26.18-16-04 vim Makefile 
+2016-07-26.18-16-06 make clean
+2016-07-26.18-16-11 make
+2016-07-26.18-17-27 make
+2016-07-26.18-24-24 make clean
+2016-07-26.18-24-31 make
+2016-07-26.18-25-04 make
+2016-07-26.18-25-30 make
+2016-07-26.18-26-10 make
+2016-07-26.18-28-32 make
+2016-07-26.18-29-30 make
+2016-07-26.18-29-51 make
+2016-07-26.18-30-17 make
+2016-07-26.18-30-26 make
+2016-07-26.18-32-00 make
+2016-07-26.18-32-21 make
+2016-07-26.18-41-31 make
+2016-07-26.18-42-08 make
+2016-07-27.11-35-35 make
+2016-07-27.11-36-55 make
+2016-07-27.11-37-20 make
+2016-07-27.11-39-12 make
+2016-07-27.11-39-38 make
+2016-07-27.11-42-17 make
+2016-07-27.11-42-58 make
+2016-07-27.11-47-27 make
+2016-07-27.11-47-42 make
+2016-07-27.11-57-39 make
+2016-07-27.12-05-06 make
+2016-07-27.12-05-31 make
+2016-07-27.13-23-12 make
+2016-07-27.13-24-02 make
+2016-07-27.13-24-34 make
+2016-07-27.13-24-47 make
+2016-07-27.13-28-35 make
+2016-07-27.13-43-42 make
+2016-07-27.13-45-11 make
+2016-07-27.13-49-26 make
+2016-07-27.13-55-12 make
+2016-07-27.13-55-45 make
+2016-07-27.13-57-03 make
+2016-07-27.13-57-47 make
+2016-07-27.14-00-40 make
+2016-07-27.14-00-52 make
+2016-07-27.15-30-10 make
+2016-07-27.15-30-14 cp action-detector ../../../executables/
+2016-07-27.17-10-45 cp action-detector ../../../executables/
+2016-07-27.17-10-49 make
+2016-07-29.15-01-39 vim Makefile 
+2016-08-19.17-35-01 make clean
+2016-08-19.17-35-07 make
+2016-08-19.17-37-29 make
+2016-08-19.17-40-29 make
+2016-08-19.17-41-05 make
+2016-08-19.17-48-50 make
+2016-08-19.18-08-53 make
+2016-08-19.18-10-27 make
+2016-08-19.18-19-07 make
+2016-08-19.18-20-44 make
+2016-08-19.18-21-32 make
+2016-08-19.18-21-37 make
+2016-08-19.18-23-28 make
+2016-09-12.15-20-56 make
+2016-09-12.15-21-01 cp action-detector ../../../executables/
+2016-09-12.17-27-01 make
+2016-09-12.17-27-06 cp action-detector ../../../executables/
+2016-09-12.17-28-47 make
+2016-09-12.17-28-48 cp action-detector ../../../executables/
+2016-09-12.17-33-20 make
+2016-09-12.17-33-22 cp action-detector ../../../executables/
+2016-09-12.17-35-31 make
+2016-09-12.17-35-32 cp action-detector ../../../executables/
+2016-09-19.17-04-28 git diff SlidingWindowSearch.hh 
+2016-09-19.17-04-30 git diff SlidingWindowSearch.cc
+2016-09-19.17-04-46 git diff
+2016-10-27.14-17-41 vim LengthModelling.cc 
+2016-10-27.14-17-57 python
+2017-04-21.09-57-03 make clean
+2017-04-21.09-57-08 make
+2017-04-21.10-37-37 grep -r "Writer" .
+2017-04-25.11-38-42 rm SlidingWindowSearch.* Scorer.* LinearSearch.*
+2017-04-25.11-38-49 rm LengthModelling.*
+2017-04-25.11-39-53 vim Makefile 
+2017-04-25.11-39-55 make
+2017-04-25.11-39-59 make
+2017-04-25.11-40-11 vim Makefile 
+2017-04-25.11-42-08 vim Application.hh 
+2017-04-25.11-56-28 vim ~/squirrel/trunk/src/Features/FeatureCache.hh 
+2017-04-25.13-24-13 make
+2017-04-25.13-24-43 make clean
+2017-04-25.13-24-46 make
+2017-04-25.13-35-01 make clean
+2017-04-25.13-35-02 make
+2017-04-25.13-35-18 vim Makefile 
+2017-04-25.13-35-19 make clean
+2017-04-25.13-35-28 vim Makefile 
+2017-04-25.13-35-30 make clean
+2017-04-25.13-35-31 make
+2017-04-25.13-37-51 vim vim Application.cc 
+2017-04-25.13-37-59 vim Makefile 
+2017-04-25.13-38-00 make clean
+2017-04-25.13-38-16 ./action-detector 
+2017-04-25.13-38-23 ./action-detector 
+2017-04-25.13-38-32 ./action-detector --action=stip
+2017-04-25.13-38-39 ./action-detector --action=stip
+2017-04-25.14-19-03 make
+2017-04-25.14-20-05 make clean
+2017-04-25.14-20-07 make
+2017-04-25.14-20-25 make
+2017-04-25.14-20-28 make clean
+2017-04-25.14-20-31 make
+2017-04-25.14-20-41 vim Makefile 
+2017-04-25.14-20-43 make clean
+2017-04-25.14-20-44 make
+2017-04-25.14-21-01 make clean
+2017-04-25.14-21-05 make
+2017-04-25.14-21-11 ./action-detector 
+2017-04-25.14-21-20 vim Makefile 
+2017-04-25.14-21-21 make clean
+2017-04-25.14-21-24 make
+2017-04-25.14-21-28 rm action-detector 
+2017-04-25.14-21-29 ./action-recognizer 
+2017-04-25.14-21-37 ./action-recognizer --filename=bla
+2017-04-25.14-21-57 vim matrix.gz 
+2017-04-25.14-23-53 make
+2017-04-25.14-23-55 ./action-recognizer --filename=bla
+2017-04-25.14-24-03 ls -a
+2017-04-25.14-24-06 ls -a
+2017-04-25.14-24-12 vim .gz 
+2017-04-25.14-24-14 rm .gz 
+2017-04-25.14-24-52 make clean
+2017-04-25.14-24-55 make
+2017-04-25.14-24-58 ./action-recognizer --filename=bla
+2017-04-25.14-25-09 ./action-recognizer --some-file=bla
+2017-04-25.14-25-29 ./action-recognizer --filename=bla
+2017-04-25.14-25-43 ./action-recognizer --example.filename=bla
+2017-04-25.14-26-24 make
+2017-04-25.14-26-25 ./action-recognizer --example.filename=bla
+2017-04-25.14-26-32 vim bla.gz 
+2017-04-25.14-26-36 vim matrix.gz 
+2017-04-25.14-26-46 ./action-recognizer --example.filename=bla --example.some-float=-1.0
+2017-04-25.14-27-26 rm matrix.gz bla.gz 
+2017-04-26.13-38-38 make clean
+2017-04-26.13-38-42 make
+2017-04-26.13-38-53 cp ../../experiments/videos/catch/Ballfangen_catch_u_cm_np1_fr_goo_0.avi test.avi
+2017-04-26.13-38-57 ./action-recognizer 
+2017-04-26.13-39-05 ./action-recognizer --bla
+2017-04-26.13-39-08 ./action-recognizer --bla=0
+2017-04-26.13-39-22 ./action-recognizer --action=stip
+2017-04-26.13-39-26 ./action-recognizer --action=stip
+2017-04-26.13-39-47 make
+2017-04-26.13-39-51 ./action-recognizer --action=stip
+2017-04-26.13-41-12 gedit ~/FeatureCache.cc 
+2017-04-26.13-41-15 make
+2017-04-26.13-41-20 ./action-recognizer --action=stip
+2017-04-26.13-41-34 make
+2017-04-26.13-41-39 ./action-recognizer --action=stip
+2017-04-26.13-41-48 mplayer test.avi 
+2017-04-26.13-41-51 mplayer test.avi 
+2017-04-26.13-41-53 mplayer test.avi 
+2017-04-26.13-41-55 mplayer test.avi 
+2017-04-26.13-43-33 ffmpeg -i test.avi img%d.jpg
+2017-04-26.13-44-32 ssh richard@cvg30
+2017-04-26.13-55-50 ffmped -e test.avi img%d.jpg
+2017-04-26.13-55-54 ffmpeg -e test.avi img%d.jpg
+2017-04-26.13-56-06 ffmpeg -i test.avi img%d.jpg
+2017-04-26.13-57-04 ffmpeg -i test.avi img%d.jpg
+2017-04-26.14-00-28 ffmpeg -i test.avi img%d.jpg
+2017-04-26.14-06-14 ffmpeg -i test.avi img%d.jpg
+2017-04-26.14-08-03 locate -b libavcodec.so
+2017-04-26.14-09-02 cp -rf /home/ibal_109/libs/ffmpeg-2.8.1 ~/lib/
+2017-04-26.14-09-41 vim .bashrc
+2017-04-26.14-09-51 vim ~/.bashrc
+2017-04-26.14-09-57 vim ~/.bashrc
+2017-04-26.14-10-04 ffmpeg -i test.avi img%d.jpg
+2017-04-26.14-10-11 ffmpeg -i test.avi img%d.jpg
+2017-04-26.14-10-12 locate -b libavcodec.so
+2017-04-26.14-10-49 sudo rm /usr/lib/x86_64-linux-gnu/libavcodec.*
+2017-04-26.14-10-58 sudo rm /usr/local/lib/libavcodec.*
+2017-04-26.14-11-03 ffmpeg -i test.avi img%d.jpg
+2017-04-26.14-11-12 sudo apt-get install libavcodec
+2017-04-26.14-11-16 sudo apt-get install libav
+2017-04-26.14-11-23 sudo apt-get install libav-dev
+2017-04-26.14-11-25 sudo apt-get install libavutils
+2017-04-26.14-11-42 locate -b libavformat.so
+2017-04-26.14-11-54 rm /usr/lib/x86_64-linux-gnu/libavformat.so* /usr/local/lib/libavformat.so*
+2017-04-26.14-11-56 sudo rm /usr/lib/x86_64-linux-gnu/libavformat.so* /usr/local/lib/libavformat.so*
+2017-04-26.14-12-22 sudo apt-get install libav-tools 
+2017-04-26.14-12-33 vim .history 
+2017-04-26.14-12-42 ffmpeg -i test.avi img%d.jpg
+2017-04-26.14-12-49 locate libavformat
+2017-04-26.14-13-04 locate libavformat | less
+2017-04-26.14-13-12 locate libavformat | less
+2017-04-26.14-13-16 echo $LD_LIBRARY_PATH
+2017-04-26.14-13-26 echo $LD_LIBRARY_PATH
+2017-04-26.14-13-44 export LD_LIBRARAY_PATH=$LD_LIBRARY_PATH:/home/richard/lib/ffmpeg-2.8.1/
+2017-04-26.14-13-51 echo $LD_LIBRARY_PATH
+2017-04-26.14-13-58 echo $LD_LIBRARY_PATH
+2017-04-26.14-14-10 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/richard/lib/ffmpeg-2.8.1/
+2017-04-26.14-14-11 echo $LD_LIBRARY_PATH
+2017-04-26.14-14-15 ffmpeg -i test.avi img%d.jpg
+2017-04-26.14-14-23 locate libavformat.so.53
+2017-04-26.14-14-42 sudo apt-get install ffmpeg
+2017-04-26.14-15-24 sudo apt-get install libavcodec-extra-53 libavdevice-extra-53 libavformat-extra-53 libavutil-extra-51 libpostproc-extra-52 libswscale-extra-2 
+2017-04-26.14-15-32 sudo apt-get install libavcodec-extra 
+2017-04-26.14-16-15 sudo apt-get --reinstall install ffmpeg
+2017-04-26.14-16-33 ffmpeg -i test.avi img%d.jpg
+2017-04-26.14-16-46 ffmpeg -i test.avi img%d.jpg
+2017-04-26.14-16-53 echo $LD_LI
+2017-04-26.14-16-57 echo $LD_LIBRARY_PATH
+2017-04-26.14-17-04 rm -rf /home/richard/lib/ffmpeg-2.8.1/
+2017-04-26.14-17-06 ffmpeg -i test.avi img%d.jpg
+2017-04-26.14-17-31 sudo apt-get --reinstall install ffmpeg
+2017-04-26.14-17-51 sudo apt-get --reinstall install libavcodec-extra 
+2017-04-26.14-17-54 ffmpeg -i test.avi img%d.jpg
+2017-04-26.14-18-07 sudo apt-get --reinstall install libavformat
+2017-04-26.14-18-25 sudo apt-get --reinstall install libavformat-dev
+2017-04-26.14-18-27 ffmpeg -i test.avi img%d.jpg
+2017-04-26.14-18-36 locate libavformat.so.53
+2017-04-26.14-19-24 ldd `which ffmpeg`
+2017-04-26.14-19-35 ldd
+2017-04-26.14-20-40 locate libavformat
+2017-04-26.14-20-40 locate libavformat
+2017-04-26.14-20-42 locate libavformat.so
+2017-04-26.14-20-50 file /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-20-59 file /usr/lib/x86_64-linux-gnu/libavformat.so.54
+2017-04-26.14-21-06 file /usr/lib/x86_64-linux-gnu/libavformat.so.54.20.4
+2017-04-26.14-21-15 sudo rm /usr/lib/x86_64-linux-gnu/libavformat*
+2017-04-26.14-21-23 sudo rm /usr/local/lib/libavformat*
+2017-04-26.14-21-34 sudo atp-get --reinstall install libavtools-extra
+2017-04-26.14-21-40 sudo apt-get --reinstall install libavtools-extra
+2017-04-26.14-21-48 sudo apt-get --reinstall install libav-tools
+2017-04-26.14-21-52 locate libavformat.so
+2017-04-26.14-21-57 file /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-22-06 ll /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-22-19 ll /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-23-25 ll /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-23-32 ldd `which ffmpeg`
+2017-04-26.14-23-41 locate libavformat.so
+2017-04-26.14-23-45 ll /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-23-49 ll /usr/lib/x86_64-linux-gnu/libavformat.so.54.20.4
+2017-04-26.14-24-07 ls /usr/lib/x86_64-linux-gnu/libavformat.so 
+2017-04-26.14-24-30 sudo rm -rf /usr/lib/x86_64-linux-gnu/libavformat.*
+2017-04-26.14-24-36 ll /usr/lib/x86_64-linux-gnu/libavform*
+2017-04-26.14-24-50 ll /usr/lib/x86_64-linux-gnu/libavform*
+2017-04-26.14-24-59 ll /usr/lib/x86_64-linux-gnu/libavformat.so 
+2017-04-26.14-25-02 ll /usr/lib/x86_64-linux-gnu/libavformat.so 
+2017-04-26.14-25-23 ll /usr/lib/x86_64-linux-gnu/libavform*
+2017-04-26.14-26-06 ll /usr/lib/x86_64-linux-gnu/libavformat.so 
+2017-04-26.14-26-14 ldd `which ffmpeg`
+2017-04-26.14-26-58 ll /usr/lib/x86_64-linux-gnu/libavformat.so 
+2017-04-26.14-27-48 qstat
+2017-04-26.14-27-51 ll /usr/lib/x86_64-linux-gnu/libavformat.so 
+2017-04-26.14-27-58 locate libavformat.so
+2017-04-26.14-28-22 sudo cp /home/ibal_109/libs/ffmpeg-2.8.1/libavformat/libavformat.so.56 /usr/lib/x86_64-linux-gnu/libavformat.so.54.20.4
+2017-04-26.14-28-33 sudo cp /home/ibal_109/libs/ffmpeg-2.8.1/libavformat/libavformat.so.56 /usr/lib/x86_64-linux-gnu/
+2017-04-26.14-28-41 sudo cp /home/ibal_109/libs/ffmpeg-2.8.1/libavformat/libavformat.so.56 /usr/lib/x86_64-linux-gnu/
+2017-04-26.14-28-42 ll /home/ibal_109/libs/ffmpeg-2.8.1/libavformat/libavformat.so.56
+2017-04-26.14-28-54 sudo rm /usr/lib/x86_64-linux-gnu/libavformat.so.54.20.4
+2017-04-26.14-29-01 ll /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-29-04 ll /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-29-08 rm rm /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-29-15 sudo rm /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-29-23 ln -s /usr/lib/x86_64-linux-gnu/libavformat.so libavformat.so.56
+2017-04-26.14-29-26 ll /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-29-31 rm libavformat.so.56 
+2017-04-26.14-29-51 sudo ln -s libavformat.so.56 /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-29-55 ll /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-30-05 ldd `which ffmpeg`
+2017-04-26.14-30-14 locate libavformat.so.53
+2017-04-26.14-30-18 ll /usr/local/lib/libavformat.so.53
+2017-04-26.14-30-26 ll /usr/local/lib/libavformat.so.53
+2017-04-26.14-30-35 locate libavformat
+2017-04-26.14-30-38 locate libavformat.so
+2017-04-26.14-30-43 ll /usr/local/lib/libavformat.so
+2017-04-26.14-30-50 sudo cp /usr/lib/x86_64-linux-gnu/libavformat.so /usr/local/lib/libavformat.so
+2017-04-26.14-30-56 sudo rm  /usr/local/lib/libavformat.so.53 /usr/local/lib/libavformat.so.53.21.1
+2017-04-26.14-31-03 locate libavformat
+2017-04-26.14-31-06 locate libavformat.so
+2017-04-26.14-31-16 ldd `which ffmpeg`
+2017-04-26.14-31-26 sudo apt-get --reinstall ffmpeg
+2017-04-26.14-31-39 sudo apt-get --reinstall install ffmpeg
+2017-04-26.14-31-41 ldd `which ffmpeg`
+2017-04-26.14-33-41 ldd `which ffmpeg`
+2017-04-26.14-33-46 locate libavformat.so
+2017-04-26.14-33-51 ll /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-33-58 ll /usr/lib/x86_64-linux-gnu/libavformat.so
+2017-04-26.14-34-31 pkg-config --libs libavformat
+2017-04-26.14-34-50 ll /usr/local/lib/libavformat.so 
+2017-04-26.14-35-00 ldd `which ffmpeg`
+2017-04-26.14-35-21 ln -s libavcodec.so /usr/local/lib/libavformat.so.53
+2017-04-26.14-35-24 sudo ln -s libavcodec.so /usr/local/lib/libavformat.so.53
+2017-04-26.14-35-29 ll /usr/local/lib/libavformat.so
+2017-04-26.14-35-31 ll /usr/local/lib/libavformat.so*
+2017-04-26.14-35-40 sudo rm /usr/local/lib/libavformat.so.53
+2017-04-26.14-35-46 sudo ln -s libavformat.so /usr/local/lib/libavformat.so.53
+2017-04-26.14-35-49 ll /usr/local/lib/libavformat.so.53
+2017-04-26.14-35-54 ldd `which ffmpeg`
+2017-04-26.14-36-03 locate libavcodec.so
+2017-04-26.14-36-27 sudo rm /usr/lib/x86_64-linux-gnu/libavcodec.so.54 /usr/lib/x86_64-linux-gnu/libavcodec.so.54.35.1/usr/lib/x86_64-linux-gnu/libavcodec.so /usr/local/lib/libavcodec.so /usr/local/lib/libavcodec.so.53 /usr/local/lib/libavcodec.so.53.35.0
+2017-04-26.14-36-46 sudo cp /home/ibal_109/libs/ffmpeg-2.8.1/libavcodec/libavcodec.so /usr/local/lib/
+2017-04-26.14-36-55 sudo ln -s libavcodec.so /usr/local/lib/libavcodec.so.53
+2017-04-26.14-36-58 ldd `which ffmpeg`
+2017-04-26.14-37-30 sudo ln -s libavformat.so /usr/local/lib/libavformat.so.54
+2017-04-26.14-37-33 ldd `which ffmpeg`
+2017-04-26.14-37-47 locate libavcodec.so
+2017-04-26.14-38-02 locate libavcodec.so
+2017-04-26.14-38-14 sudo ln -s libavcodec.so /usr/local/lib/libavcodec.so.54
+2017-04-26.14-38-15 ldd `which ffmpeg`
+2017-04-26.14-38-22 locate libavutil.so
+2017-04-26.14-38-25 ll /usr/local/lib/libavutil.so
+2017-04-26.14-38-30 ll /usr/local/lib/libavutil.so.51.22.2
+2017-04-26.14-38-36 ll /usr/local/lib/libavutil.so.51.22.2
+2017-04-26.14-38-51 ll /usr/local/lib/libavutil.so.51.22.2
+2017-04-26.14-38-58 sudo cp /home/ibal_109/libs/ffmpeg-2.8.1/libavutil/libavutil.so /usr/local/lib/libavutil.so
+2017-04-26.14-39-04 sudo cp /home/ibal_109/libs/ffmpeg-2.8.1/libavutil/libavutil.so /usr/local/lib/libavutil.so
+2017-04-26.14-39-16 sudo ln -s libavutil.so.54 /usr/local/lib/libavutil.so
+2017-04-26.14-39-23 sudo ln -s libavutil.so /usr/local/lib/libavutil.so.54
+2017-04-26.14-39-26 ldd `which ffmpeg`
+2017-04-26.14-39-36 locate libswresample.so
+2017-04-26.14-39-41 locate libswresample.so
+2017-04-26.14-39-45 ll /home/ibal_109/libs/ffmpeg-2.8.1/libswresample/libswresample.so
+2017-04-26.14-39-54 sudo cp /home/ibal_109/libs/ffmpeg-2.8.1/libswresample/libswresample.so /usr/local/lib/libswresample.so
+2017-04-26.14-39-59 ll /usr/local/lib/libswresample.so.0
+2017-04-26.14-40-04 ll /usr/local/lib/libswresample.so.0.15.100
+2017-04-26.14-40-11 sudo rm /usr/local/lib/libswresample.so.0.15.100
+2017-04-26.14-40-16 sudo rm /usr/local/lib/libswresample.so.0
+2017-04-26.14-40-19 ll /usr/local/lib/libswresample.so
+2017-04-26.14-40-24 sudo rm /usr/local/lib/libswresample.so
+2017-04-26.14-40-32 sudo rm /usr/local/lib/libswresample.so
+2017-04-26.14-40-40 sudo cp /home/ibal_109/libs/ffmpeg-2.8.1/libswresample/libswresample.so /usr/local/lib/libswresample.so
+2017-04-26.14-40-43 ll /home/ibal_109/libs/ffmpeg-2.8.1/libswresample/libswresample.so
+2017-04-26.14-40-46 ll /home/ibal_109/libs/ffmpeg-2.8.1/libswresample/libswresample.so.1
+2017-04-26.14-40-53 sudo cp /home/ibal_109/libs/ffmpeg-2.8.1/libswresample/libswresample.so.1 /usr/local/lib/libswresample.so.1
+2017-04-26.14-40-58 ldd `which ffmpeg`
+2017-04-26.14-41-12 locate libswresample.so
+2017-04-26.14-41-16 ll /usr/local/lib/libswresample.so.0
+2017-04-26.14-41-26 sudo ln -s libswresample.so /usr/local/lib/libswresample.so.0
+2017-04-26.14-41-31 ll /usr/local/lib/libswresample.so.0
+2017-04-26.14-41-35 ldd `which ffmpeg`
+2017-04-26.14-41-45 ffmpeg -i test.avi img%.jpg
+2017-04-26.14-43-42 ll /usr/local/lib/libavcodec.so
+2017-04-26.14-43-45 ll /usr/local/lib/libavcodec.so
+2017-04-26.14-43-53 locate libav*
+2017-04-26.14-43-58 locate libav
+2017-04-26.14-48-41 locate libav | less
+2017-04-26.14-50-54 ffmpeg -i test.avi img%.jpg
+2017-04-26.14-51-22 ffmpeg -i test.avi img%.jpg
+2017-04-26.14-51-27 which ffmpeg
+2017-04-26.14-52-44 which ffmpeg
+2017-04-26.14-52-49 ll /usr/local/bin/ffmpeg
+2017-04-26.14-52-54 rm /usr/local/bin/ffmpeg
+2017-04-26.14-52-57 sudo rm /usr/local/bin/ffmpeg
+2017-04-26.14-53-04 which ffmpeg
+2017-04-26.14-53-08 locate ffmpeg
+2017-04-26.14-53-34 locate ffmpeg
+2017-04-26.14-53-36 which ffmpeg
+2017-04-26.14-53-41 ffmpeg -i test.avi img%.jpg
+2017-04-26.14-54-00 ffmpeg -i test.avi img%.jpg
+2017-04-26.14-54-42 ffmpeg -i test.avi img%.jpg
+2017-04-26.14-54-43 which ffmpeg
+2017-04-26.14-54-54 ldd `which ffmpeg`
+2017-04-26.14-55-06 ldd `which ffmpeg` | libavcodec
+2017-04-26.14-55-11 ldd `which ffmpeg` | grep libavcodec
+2017-04-26.14-55-13 ldd `which ffmpeg` | grep libav
+2017-04-26.14-55-16 ldd `which ffmpeg` | grep liba
+2017-04-26.14-55-53 ffmpeg --help
+2017-04-26.14-56-01 ffmpeg -v
+2017-04-26.14-56-05 ffmpeg -v10
+2017-04-26.14-56-13 ffmpeg -v 10 -i test.avi img%.jpg
+2017-04-26.14-56-19 ffmpeg -v 0 -i test.avi img%.jpg
+2017-04-26.14-56-22 ffmpeg -v 1 -i test.avi img%.jpg
+2017-04-26.14-56-25 ffmpeg -v -i test.avi img%.jpg
+2017-04-26.14-56-38 ffmpeg -v trace test.avi img%.jpg
+2017-04-26.14-56-44 ffmpeg -v trace -i test.avi img%.jpg
+2017-04-26.14-56-51 ffmpeg -v trace -i test.avi img%.jpg
+2017-04-26.14-57-33 mplayer test.avi 
+2017-04-26.14-57-35 mplayer test.avi 
+2017-04-26.14-57-37 mplayer test.avi 
+2017-04-26.14-58-06 ffmpeg -v trace -i test.avi img%d.jpg
+2017-04-26.14-58-10 ls *.jpg
+2017-04-26.14-58-15 ffmpeg -v trace -i test.avi img%d.jpg | les
+2017-04-26.14-58-19 ffmpeg -v trace -i test.avi img%d.jpg | wc -l
+2017-04-26.14-58-25 ls *.jpg | wc -l
+2017-04-26.14-58-32 rm *.jpg
+2017-04-26.14-58-53 ./action-recognizer --action=stip
+2017-04-26.14-58-58 make clean
+2017-04-26.14-58-59 make
+2017-04-26.16-41-19 ./action-recognizer --action=stop
+2017-04-26.16-41-22 ./action-recognizer --action=stip
+2017-04-26.16-41-37 ./action-recognizer --action=stip
+2017-04-26.16-41-42 ffmpeg
+2017-04-26.16-41-54 ffmpeg -i test.avi img%d.jpg
+2017-04-26.16-42-04 rm *.jpg
+2017-04-26.16-42-17 ./action-recognizer --action=stip
+2017-04-26.16-45-50 make
+2017-04-26.16-45-53 ./action-recognizer --action=stip
+2017-04-26.16-46-08 rm img 
+2017-04-26.16-46-18 ffmpeg -i test.avi img%d.jpg
+2017-04-26.16-47-20 eog *.jpg
+2017-04-26.16-47-53 rm *.jpg
+2017-04-26.16-47-55 rm test.avi 
+2017-04-26.16-48-14 cp /media/datasets/action_recognition/olympic_sports/data/bowling/001.avi test.avi
+2017-04-26.16-48-22 mplayer test.avi 
+2017-04-26.16-48-32 ./action-recognizer --action=stip
+2017-04-26.16-49-56 rm test.avi 
+2017-04-26.16-50-15 rm test.avi 
+2017-04-26.16-50-52 cp ../../experiments/videos/catch/Ballfangen_catch_u_cm_np1_fr_goo_0.avi test.avi
+2017-04-26.16-50-57 mplayer test.avi 
+2017-04-26.16-51-09 ffmpeg -i test.avi -o bla.avi
+2017-04-26.16-51-14 ffmpeg -i test.avi bla.avi
+2017-04-26.16-51-19 mplayer bla.avi 
+2017-04-26.16-51-26 ./action-recognizer --action=stip
+2017-04-26.16-51-35 make
+2017-04-26.16-51-53 make
+2017-04-26.16-51-56 ./action-recognizer --action=stip
+2017-04-26.16-52-27 rm bla.avi 
+2017-04-26.16-52-33 ffmpeg -i test.avi -vcodec libx264 bla.avi
+2017-04-26.16-52-38 mplayer bla.avi 
+2017-04-26.16-52-54 ./action-recognizer --action=stip
+2017-04-26.16-53-05 make
+2017-04-26.16-53-08 ./action-recognizer --action=stip
+2017-04-26.16-53-23 ffmpeg -i test.avi bla.avi 
+2017-04-26.16-53-29 ./action-recognizer --action=stip
+2017-04-26.16-53-41 ffmpeg -i test.avi img%d.jpg
+2017-04-26.16-54-11 ffmpeg -i img%d.jpg bla.avi
+2017-04-26.16-54-18 ./action-recognizer --action=stip
+2017-04-26.16-54-28 rm img* test.avi 
+2017-04-26.16-54-30 rm bla.avi 
+2017-04-26.17-01-12 make
+2017-04-26.17-01-20 cp ../../experiments/videos/catch/Ballfangen_catch_u_cm_np1_fr_goo_0.avi test.avi
+2017-04-26.17-01-26 make
+2017-04-26.17-01-31 ./action-recognizer --action=stip
+2017-04-26.17-01-52 make
+2017-04-26.17-01-53 ./action-recognizer --action=stip
+2017-04-26.17-03-49 make
+2017-04-26.17-03-51 ./action-recognizer --action=stip
+2017-04-26.17-04-17 make
+2017-04-26.17-04-26 ./action-recognizer --action=stip
+2017-04-26.17-40-06 make
+2017-04-26.17-40-10 ./action-recognizer --action=stip
+2017-04-26.17-40-37 make
+2017-04-26.17-40-48 ./action-recognizer --action=stip
+2017-04-26.17-48-07 make
+2017-04-26.17-48-20 ./action-recognizer --action=stip
+2017-04-26.17-48-21 ./action-recognizer --action=stip
+2017-04-26.18-03-33 make
+2017-04-26.18-11-04 make
+2017-04-26.18-11-06 ./action-recognizer --action=stip
+2017-04-26.18-12-39 make
+2017-04-26.18-12-40 ./action-recognizer --action=stip
+2017-04-26.18-13-07 python
+2017-04-26.18-16-12 make
+2017-04-26.18-16-14 ./action-recognizer --action=stip
+2017-04-26.18-16-51 make
+2017-04-26.18-16-53 ./action-recognizer --action=stip
+2017-04-26.18-29-11 make
+2017-04-26.18-29-13 ./action-recognizer --action=stip
+2017-04-26.18-29-44 make
+2017-04-26.18-29-45 ./action-recognizer --action=stip
+2017-04-26.18-29-57 make
+2017-04-26.18-29-58 ./action-recognizer --action=stip
+2017-04-26.18-31-09 make
+2017-04-26.18-31-11 ./action-recognizer --action=stip
+2017-04-26.18-31-28 make
+2017-04-26.18-31-30 ./action-recognizer --action=stip
+2017-04-26.18-34-10 make
+2017-04-26.18-34-11 ./action-recognizer --action=stip
+2017-04-26.18-34-40 make
+2017-04-26.18-34-51 ./action-recognizer --action=stip
+2017-04-26.18-35-04 make
+2017-04-26.18-35-24 make
+2017-04-26.18-35-26 ./action-recognizer --action=stip
+2017-04-26.18-35-44 make
+2017-04-26.18-35-47 ./action-recognizer --action=stip
+2017-04-26.18-35-54 make
+2017-04-26.18-35-56 ./action-recognizer --action=stip
+2017-04-26.18-36-44 make
+2017-04-26.18-36-45 ./action-recognizer --action=stip
+2017-04-26.18-37-05 make
+2017-04-26.18-37-36 make
+2017-04-26.18-37-38 ./action-recognizer --action=stip
+2017-04-26.18-37-47 make
+2017-04-26.18-37-50 ./action-recognizer --action=stip
+2017-04-26.18-37-57 make
+2017-04-26.18-38-01 ./action-recognizer --action=stip
+2017-04-26.18-38-12 make
+2017-04-26.18-38-23 ./action-recognizer --action=stip
+2017-04-26.18-38-34 ./action-recognizer --action=stip
+2017-04-26.18-38-42 ./action-recognizer --action=stip
+2017-04-26.18-38-58 make
+2017-04-26.18-39-09 ./action-recognizer --action=stip
+2017-04-26.18-39-24 make
+2017-04-26.18-39-32 ./action-recognizer --action=stip
+2017-04-26.18-55-52 make
+2017-04-26.18-55-57 make
+2017-04-26.18-56-17 make clean
+2017-04-26.18-56-20 make
+2017-04-26.18-56-39 make
+2017-04-26.18-57-34 make clean
+2017-04-26.18-57-38 make
+2017-04-26.18-57-41 ./action-recognizer --action=stip
+2017-04-26.18-58-08 make
+2017-04-26.19-19-06 make
+2017-04-27.11-28-32 make clean
+2017-04-27.11-28-34 make
+2017-04-27.11-28-47 make
+2017-04-27.11-29-13 make
+2017-04-27.11-29-38 make clean
+2017-04-27.11-29-41 make
+2017-04-27.11-31-52 make
+2017-04-27.11-31-57 ./action-recognizer --action=stip
+2017-04-27.11-32-44 make
+2017-04-27.11-32-45 ./action-recognizer --action=stip
+2017-04-27.11-36-15 make
+2017-04-27.11-37-55 make
+2017-04-27.11-37-57 ./action-recognizer --action=stip
+2017-04-27.11-40-28 make
+2017-04-27.11-40-29 ./action-recognizer --action=stip
+2017-04-27.14-37-33 make clean
+2017-04-27.14-37-36 make
+2017-04-27.14-38-42 make clean
+2017-04-27.14-38-44 make
+2017-04-27.14-42-57 make clean
+2017-04-27.14-42-59 make
+2017-04-27.14-43-19 make clean
+2017-04-27.14-43-22 make
+2017-04-27.14-44-23 make clean
+2017-04-27.14-44-27 make
+2017-04-27.14-44-28 ks
+2017-04-27.14-45-33 ./action-recognizer --action=stip
+2017-04-27.14-45-36 make
+2017-04-27.14-45-42 ./action-recognizer --action=stip
+2017-04-27.14-46-05 make clean
+2017-04-27.14-46-08 make
+2017-04-27.14-46-11 ./action-recognizer --action=stip
+2017-04-27.14-46-56 make
+2017-04-27.14-46-57 ./action-recognizer --action=stip
+2017-04-27.14-48-03 make
+2017-04-27.14-48-07 ./action-recognizer --action=stip
+2017-04-27.14-53-50 make
+2017-04-27.14-53-52 ./action-recognizer --action=stip
+2017-04-27.14-55-09 make
+2017-04-27.14-55-13 ./action-recognizer --action=stip
+2017-04-27.14-55-36 make
+2017-04-27.14-55-37 ./action-recognizer --action=stip
+2017-04-27.14-57-03 make
+2017-04-27.14-57-05 ./action-recognizer --action=stip
+2017-04-27.14-58-58 make
+2017-04-27.14-59-01 ./action-recognizer --action=stip
+2017-04-27.14-59-29 ./action-recognizer --action=stip
+2017-04-27.15-00-26 make
+2017-04-27.15-00-32 ./action-recognizer --action=stip
+2017-04-27.15-06-44 make
+2017-04-27.15-06-45 make clean
+2017-04-27.15-06-49 make
+2017-04-27.15-06-55 ./action-recognizer --action=stip
+2017-04-27.15-07-32 make
+2017-04-27.15-08-01 ./action-recognizer --action=stip
+2017-04-27.15-08-35 ./action-recognizer --action=stip
+2017-04-27.15-09-08 ./action-recognizer --action=stip
+2017-04-27.15-09-33 make
+2017-04-27.15-09-53 ./action-recognizer --action=stip
+2017-04-27.15-10-17 make
+2017-04-27.15-10-21 ./action-recognizer --action=stip
+2017-04-27.15-10-28 make
+2017-04-27.15-10-32 ./action-recognizer --action=stip
+2017-04-27.15-10-46 make
+2017-04-27.15-11-05 ./action-recognizer --action=stip
+2017-04-27.15-11-30 ./action-recognizer --action=stip
+2017-04-27.15-12-56 make
+2017-04-27.15-13-09 ./action-recognizer --action=stip
+2017-04-27.15-14-43 make
+2017-04-27.15-15-04 ./action-recognizer --action=stip
+2017-04-27.15-15-45 ./action-recognizer --action=stip
+2017-04-27.15-16-01 ./action-recognizer --action=stip
+2017-04-27.15-16-58 make
+2017-04-27.15-17-15 ./action-recognizer --action=stip
+2017-04-27.15-17-56 make
+2017-04-27.15-18-08 ./action-recognizer --action=stip
+2017-04-27.15-18-53 make
+2017-04-27.15-19-14 ./action-recognizer --action=stip
+2017-04-27.15-20-01 make
+2017-04-27.15-20-17 ./action-recognizer --action=stip
+2017-04-27.15-20-57 make
+2017-04-27.15-21-15 ./action-recognizer --action=stip
+2017-04-27.15-26-16 make
+2017-04-27.15-26-36 ./action-recognizer --action=stip
+2017-04-27.15-26-39 make
+2017-04-27.15-27-46 make
+2017-04-27.15-28-06 ./action-recognizer --action=stip
+2017-04-27.15-29-38 python
+2017-04-27.15-29-41 make
+2017-04-27.15-30-10 ./action-recognizer --action=stip
+2017-04-27.15-30-18 make
+2017-04-27.15-30-48 ./action-recognizer --action=stip
+2017-04-27.15-39-29 make
+2017-04-27.15-39-44 ./action-recognizer --action=stip
+2017-04-27.15-40-43 make
+2017-04-27.15-40-45 ./action-recognizer --action=stip
+2017-04-27.15-41-32 make
+2017-04-27.15-41-33 ./action-recognizer --action=stip
+2017-04-27.15-42-21 make
+2017-04-27.15-42-50 make
+2017-04-27.15-42-52 make
+2017-04-27.15-42-54 ./action-recognizer --action=stip
+2017-04-27.15-46-12 make
+2017-04-27.15-46-13 ./action-recognizer --action=stip
+2017-04-27.15-53-47 make
+2017-04-27.15-53-55 ./action-recognizer --action=stip
+2017-04-27.15-55-11 make
+2017-04-27.15-55-38 ./action-recognizer --action=stip
+2017-04-27.15-58-21 make
+2017-04-27.15-58-26 ./action-recognizer --action=stip
+2017-04-27.15-58-47 make
+2017-04-27.15-59-03 ./action-recognizer --action=stip
+2017-04-27.16-01-22 make
+2017-04-27.16-01-24 ./action-recognizer --action=stip
+2017-04-27.16-01-44 make
+2017-04-27.16-01-46 ./action-recognizer --action=stip
+2017-04-27.16-02-16 make
+2017-04-27.16-02-17 ./action-recognizer --action=stip
+2017-04-27.16-03-26 make
+2017-04-27.16-03-40 ./action-recognizer --action=stip
+2017-04-27.16-08-06 ./action-recognizer --action=stip
+2017-04-27.17-15-23 make
+2017-04-27.17-15-36 ./action-recognizer --action=stip
+2017-04-27.17-16-08 make
+2017-04-27.17-16-19 make
+2017-04-27.17-16-31 ./action-recognizer --action=stip
+2017-04-27.17-16-41 make
+2017-04-27.17-16-47 ./action-recognizer --action=stip
+2017-04-27.17-17-09 make
+2017-04-27.17-17-16 ./action-recognizer --action=stip
+2017-04-27.17-17-29 ./action-recognizer --action=stip
+2017-04-27.17-17-37 mplayer dummy.avi 
+2017-04-27.17-17-44 ./action-recognizer --action=stip
+2017-04-27.17-18-20 make
+2017-04-27.17-18-29 ./action-recognizer --action=stip
+2017-04-27.17-18-53 make
+2017-04-27.17-19-03 ./action-recognizer --action=stip
+2017-04-27.17-19-54 ./action-recognizer --action=stip
+2017-04-27.17-19-58 make
+2017-04-27.17-20-08 ./action-recognizer --action=stip
+2017-04-27.17-21-19 make
+2017-04-27.17-21-24 ./action-recognizer --action=stip
+2017-04-27.17-21-29 mplayer dummy.avi 
+2017-04-27.17-22-02 make
+2017-04-27.17-22-07 mplayer dummy.avi 
+2017-04-27.17-22-11 make
+2017-04-27.17-22-18 ./action-recognizer --action=stip
+2017-04-27.17-22-51 make
+2017-04-27.17-23-03 ./action-recognizer --action=stip
+2017-04-27.17-23-51 make
+2017-04-27.17-25-15 ./action-recognizer --action=stip
+2017-04-27.17-29-44 make
+2017-04-27.17-29-49 ./action-recognizer --action=stip
+2017-04-27.17-31-31 make
+2017-04-27.17-31-41 ./action-recognizer --action=stip
+2017-04-27.17-31-58 make
+2017-04-27.17-32-06 ./action-recognizer --action=stip
+2017-04-27.17-33-28 make
+2017-04-27.17-33-33 ./action-recognizer --action=stip
+2017-04-27.17-33-56 make
+2017-04-27.17-34-01 ./action-recognizer --action=stip
+2017-04-27.17-34-14 ./action-recognizer --action=stip
+2017-04-27.17-34-47 ./action-recognizer --action=stip
+2017-04-27.17-35-08 ./action-recognizer --action=stip
+2017-04-27.17-35-19 make
+2017-04-27.17-35-25 ./action-recognizer --action=stip
+2017-04-27.17-35-38 ./action-recognizer --action=stip
+2017-04-27.17-36-07 make
+2017-04-27.17-36-17 ./action-recognizer --action=stip
+2017-04-27.17-36-48 make
+2017-04-27.17-36-57 ./action-recognizer --action=stip
+2017-04-27.17-37-15 make
+2017-04-27.17-37-24 ./action-recognizer --action=stip
+2017-04-27.17-37-32 make
+2017-04-27.17-37-42 ./action-recognizer --action=stip
+2017-04-27.17-37-57 ./action-recognizer --action=stip
+2017-04-27.17-38-07 make
+2017-04-27.17-38-16 ./action-recognizer --action=stip
+2017-04-27.17-38-30 make
+2017-04-27.17-38-34 ./action-recognizer --action=stip
+2017-04-27.17-39-10 make
+2017-04-27.17-39-19 ./action-recognizer --action=stip
+2017-04-27.17-39-55 make
+2017-04-27.17-40-40 make
+2017-04-27.17-40-48 ./action-recognizer --action=stip
+2017-04-27.17-41-47 make
+2017-04-27.17-42-12 ./action-recognizer --action=stip
+2017-04-28.09-07-31 vim Makefile 
+2017-04-28.09-45-09 make
+2017-04-28.09-45-19 vim Makefile 
+2017-04-28.09-45-23 make
+2017-04-28.09-45-35 mv kMeans.hh KMeans.hh
+2017-04-28.09-45-39 mv kMeans.cc KMeans.cc
+2017-04-28.09-45-47 vim Makefile 
+2017-04-28.09-46-27 make
+2017-04-28.09-46-44 ./action-recognizer --action=stip
+2017-04-28.11-15-44 make
+2017-04-28.11-16-00 ./action-recognizer --action=stip
+2017-04-28.11-16-52 make
+2017-04-28.11-17-16 ./action-recognizer --action=stip
+2017-04-28.11-17-20 ./action-recognizer --action=stip
+2017-04-28.11-17-42 ./action-recognizer --action=stip
+2017-04-28.11-17-49 ./action-recognizer --action=stip
+2017-04-28.11-18-26 ./action-recognizer --action=stip
+2017-04-28.11-18-40 ./action-recognizer --action=stip
+2017-04-28.11-19-03 ./action-recognizer --action=stip
+2017-04-28.11-19-14 make
+2017-04-28.11-19-40 ./action-recognizer --action=stip
+2017-04-28.11-19-58 ./action-recognizer --action=stip
+2017-04-28.11-21-11 make
+2017-04-28.11-21-34 ./action-recognizer --action=stip
+2017-04-28.11-22-25 make
+2017-04-28.11-22-30 ./action-recognizer --action=stip
+2017-04-28.11-22-49 ./action-recognizer --action=stip
+2017-04-28.11-22-52 make
+2017-04-28.11-22-57 ./action-recognizer --action=stip
+2017-04-28.11-23-10 make
+2017-04-28.11-23-23 ./action-recognizer --action=stip
+2017-04-28.11-23-56 make
+2017-04-28.11-24-00 ./action-recognizer --action=stip
+2017-04-28.11-24-03 ./action-recognizer --action=stip
+2017-04-28.11-24-37 make
+2017-04-28.11-24-46 ./action-recognizer --action=stip
+2017-04-28.11-24-58 make
+2017-04-28.11-25-08 ./action-recognizer --action=stip
+2017-04-28.11-26-11 make
+2017-04-28.11-26-24 ./action-recognizer --action=stip
+2017-04-28.11-26-33 ./action-recognizer --action=stip
+2017-04-28.11-53-30 make
+2017-04-28.11-54-22 ./action-recognizer --action=stip
+2017-04-28.11-54-34 make
+2017-04-28.11-54-45 ./action-recognizer --action=stip
+2017-04-28.11-57-07 make
+2017-04-28.11-57-40 ./action-recognizer --action=stip
+2017-04-28.12-00-08 make
+2017-04-28.12-00-19 ./action-recognizer --action=stip
+2017-04-28.12-00-32 make
+2017-04-28.12-00-48 ./action-recognizer --action=stip
+2017-04-28.12-01-05 make
+2017-04-28.12-01-12 ./action-recognizer --action=stip
+2017-04-28.12-01-14 ./action-recognizer --action=stip
+2017-04-28.12-01-48 make
+2017-04-28.12-01-54 ./action-recognizer --action=stip
+2017-04-28.12-02-05 make
+2017-04-28.12-02-13 ./action-recognizer --action=stip
+2017-04-28.13-00-44 make
+2017-04-28.13-00-51 ./action-recognizer --action=stip
+2017-04-28.13-00-53 ./action-recognizer --action=stip
+2017-04-28.13-01-50 make
+2017-04-28.13-02-02 ./action-recognizer --action=stip
+2017-04-28.13-12-06 make
+2017-04-28.13-12-13 ./action-recognizer --action=stip
+2017-04-28.13-12-22 make
+2017-04-28.13-12-29 ./action-recognizer --action=stip
+2017-04-28.13-13-46 make
+2017-04-28.13-13-50 ./action-recognizer --action=stip
+2017-04-28.13-14-02 make
+2017-04-28.13-14-15 ./action-recognizer --action=stip
+2017-04-28.13-15-13 make
+2017-04-28.13-15-17 ./action-recognizer --action=stip
+2017-04-28.13-15-52 make
+2017-04-28.13-16-02 make
+2017-04-28.13-16-07 ./action-recognizer --action=stip
+2017-04-28.13-16-28 make
+2017-04-28.13-16-33 ./action-recognizer --action=stip
+2017-04-28.13-16-46 make
+2017-04-28.13-16-51 ./action-recognizer --action=stip
+2017-04-28.13-18-42 ./action-recognizer --action=stip
+2017-04-28.13-18-45 make
+2017-04-28.13-18-50 ./action-recognizer --action=stip
+2017-04-28.13-20-43 make
+2017-04-28.13-20-48 ./action-recognizer --action=stip
+2017-04-28.13-21-16 make
+2017-04-28.13-21-25 ./action-recognizer --action=stip
+2017-04-28.13-23-04 make
+2017-04-28.13-23-09 ./action-recognizer --action=stip
+2017-04-28.13-24-12 make
+2017-04-28.13-24-20 ./action-recognizer --action=stip
+2017-04-28.13-24-37 make
+2017-04-28.13-24-48 ./action-recognizer --action=stip
+2017-04-28.13-25-37 make
+2017-04-28.13-25-55 make
+2017-04-28.13-26-41 ./action-recognizer --action=stip
+2017-04-28.13-26-45 make
+2017-04-28.13-26-56 ./action-recognizer --action=stip
+2017-04-28.13-27-10 make
+2017-04-28.13-27-14 ./action-recognizer --action=stip
+2017-04-28.13-27-28 make
+2017-04-28.13-27-38 ./action-recognizer --action=stip
+2017-04-28.13-28-07 make
+2017-04-28.13-28-11 ./action-recognizer --action=stip
+2017-04-28.13-28-31 make
+2017-04-28.13-28-44 ./action-recognizer --action=stip
+2017-04-28.13-29-49 make
+2017-04-28.13-30-10 ./action-recognizer --action=stip
+2017-04-28.13-31-07 make
+2017-04-28.13-31-12 ./action-recognizer --action=stip
+2017-04-28.13-31-30 make
+2017-04-28.13-31-36 ./action-recognizer --action=stip
+2017-04-28.13-31-48 make
+2017-04-28.13-32-00 ./action-recognizer --action=stip
+2017-04-28.13-32-13 make
+2017-04-28.13-32-21 ./action-recognizer --action=stip
+2017-04-28.13-34-19 make
+2017-04-28.13-34-30 ./action-recognizer --action=stip
+2017-04-28.13-34-53 make
+2017-04-28.13-34-57 ./action-recognizer --action=stip
+2017-04-28.13-35-23 make
+2017-04-28.13-35-29 ./action-recognizer --action=stip
+2017-04-28.13-35-39 ./action-recognizer --action=stip
+2017-04-28.13-36-59 make
+2017-04-28.13-37-13 ./action-recognizer --action=stip
+2017-04-28.13-37-17 make
+2017-04-28.13-37-37 ./action-recognizer --action=stip
+2017-04-28.13-37-51 ./action-recognizer --action=stip
+2017-04-28.13-38-14 make
+2017-04-28.13-38-39 ./action-recognizer --action=stip
+2017-04-28.13-39-04 make
+2017-04-28.13-39-26 ./action-recognizer --action=stip
+2017-04-28.13-39-45 make
+2017-04-28.13-39-56 ./action-recognizer --action=stip
+2017-04-28.13-40-19 make
+2017-04-28.13-40-38 ./action-recognizer --action=stip
+2017-04-28.13-40-50 make
+2017-04-28.13-41-15 ./action-recognizer --action=stip
+2017-04-28.13-41-31 make
+2017-04-28.13-41-45 ./action-recognizer --action=stip
+2017-04-28.13-41-55 make
+2017-04-28.13-42-12 ./action-recognizer --action=stip
+2017-04-28.13-43-01 make
+2017-04-28.13-43-19 ./action-recognizer --action=stip
+2017-04-28.13-43-29 make
+2017-04-28.13-43-44 ./action-recognizer --action=stip
+2017-04-28.13-43-54 make
+2017-04-28.13-44-08 ./action-recognizer --action=stip
+2017-04-28.13-44-30 make
+2017-04-28.13-44-39 ./action-recognizer --action=stip
+2017-04-28.13-45-00 make
+2017-04-28.13-45-11 ./action-recognizer --action=stip
+2017-04-28.13-45-34 make
+2017-04-28.13-45-57 ./action-recognizer --action=stip
+2017-04-28.13-46-07 make
+2017-04-28.13-46-17 ./action-recognizer --action=stip
+2017-04-28.13-46-54 make
+2017-04-28.13-47-14 ./action-recognizer --action=stip
+2017-04-28.13-47-27 make
+2017-04-28.13-47-49 ./action-recognizer --action=stip
+2017-04-28.13-48-06 make
+2017-04-28.13-48-42 ./action-recognizer --action=stip
+2017-04-28.13-48-44 ./action-recognizer --action=stip
+2017-04-28.13-50-55 make
+2017-04-28.13-51-08 ./action-recognizer --action=stip
+2017-04-28.13-57-35 make
+2017-04-28.13-58-21 make
+2017-04-28.13-59-09 make
+2017-04-28.13-59-19 make
+2017-04-28.13-59-21 make clean
+2017-04-28.13-59-26 make
+2017-04-28.14-00-05 make
+2017-04-28.14-00-34 ./action-recognizer --action=stip
+2017-04-28.14-03-20 make
+2017-04-28.14-04-31 make
+2017-04-28.14-04-48 ./action-recognizer --action=stip
+2017-04-28.14-04-59 make
+2017-04-28.14-05-44 ./action-recognizer --action=stip
+2017-04-28.14-07-14 make
+2017-04-28.14-07-18 ./action-recognizer --action=stip
+2017-04-28.14-07-58 make
+2017-04-28.14-08-02 ./action-recognizer --action=stip
+2017-04-28.14-08-06 ./action-recognizer --action=stip
+2017-04-28.14-54-16 make
+2017-04-28.14-54-21 make
+2017-04-28.14-55-53 vim ../definitions.make 
+2017-04-28.14-55-55 make
+2017-04-28.14-55-57 make clean
+2017-04-28.14-56-02 make
+2017-04-28.14-56-08 ./action-recognizer --action=stip
+2017-04-28.14-58-48 make
+2017-04-28.14-59-00 ./action-recognizer --action=stip
+2017-04-28.14-59-12 make
+2017-04-28.14-59-24 ./action-recognizer --action=stip
+2017-04-28.15-02-07 make
+2017-04-28.15-02-14 ./action-recognizer --action=stip
+2017-04-28.16-08-04 make
+2017-04-28.16-08-08 make clean
+2017-04-28.16-08-11 make
+2017-04-28.16-10-33 make
+2017-04-28.16-11-25 make
+2017-04-28.16-11-56 vim Makefile 
+2017-04-28.16-12-10 make
+2017-04-28.16-12-11 make clean
+2017-04-28.16-12-16 make
+2017-04-28.16-52-22 make clean
+2017-04-28.16-52-26 make
+2017-04-28.16-52-50 make
+2017-04-28.16-53-11 ./action-recognizer --kmeans.model-file=means.gz
+2017-04-28.16-54-04 make
+2017-04-28.16-54-10 make
+2017-04-28.16-54-14 ./action-recognizer --kmeans.model-file=means.gz
+2017-04-28.16-54-44 make
+2017-04-28.16-54-45 ./action-recognizer --kmeans.model-file=means.gz
+2017-04-28.16-56-39 make
+2017-04-28.16-56-46 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4
+2017-04-28.16-58-54 make
+2017-04-28.16-58-55 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4
+2017-04-28.16-59-36 make
+2017-04-28.16-59-38 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4
+2017-04-28.17-00-07 m<ke
+2017-04-28.17-00-16 make
+2017-04-28.17-00-18 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4
+2017-04-28.17-00-47 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4make
+2017-04-28.17-00-50 make
+2017-04-28.17-00-51 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4make
+2017-04-28.17-03-04 make
+2017-04-28.17-03-06 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4make
+2017-04-28.17-03-10 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4
+2017-04-28.17-03-40 vim means.gz 
+2017-04-28.17-03-44 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4
+2017-04-28.17-03-49 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 ; zcat means.gz 
+2017-04-28.17-03-53 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 ; zcat means.gz 
+2017-04-28.17-03-58 vim means.gz 
+2017-04-28.17-04-01 vim means.gz 
+2017-04-28.17-05-04 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 ; zcat means.gz ; echo ""
+2017-04-28.17-05-07 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 ; zcat means.gz ; echo ""
+2017-04-28.17-05-08 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 ; zcat means.gz ; echo ""
+2017-04-28.17-05-11 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 ; zcat means.gz ; echo ""
+2017-04-28.17-05-12 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 ; zcat means.gz ; echo ""
+2017-04-28.17-05-13 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 ; zcat means.gz ; echo ""
+2017-04-28.17-05-13 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 ; zcat means.gz ; echo ""
+2017-04-28.17-05-14 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 ; zcat means.gz ; echo ""
+2017-04-28.17-06-41 make
+2017-04-28.17-06-43 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 ; zcat means.gz ; echo ""
+2017-04-28.17-06-48 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4
+2017-04-28.17-07-33 make
+2017-04-28.17-07-34 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4
+2017-04-28.17-08-02 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 | less
+2017-04-28.17-08-16 make
+2017-04-28.17-08-19 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 | less
+2017-04-28.17-08-43 make
+2017-04-28.17-08-51 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 | less
+2017-04-28.17-09-06 make
+2017-04-28.17-09-11 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 | less
+2017-04-28.17-09-52 make
+2017-04-28.17-10-01 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 | less
+2017-04-28.17-25-27 make
+2017-04-28.17-26-01 make clean
+2017-04-28.17-26-06 make
+2017-04-28.17-26-11 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-27-29 make
+2017-04-28.17-27-30 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-28-43 make
+2017-04-28.17-28-44 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-15 make
+2017-04-28.17-29-16 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-21 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-22 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-22 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-23 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-24 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-25 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-26 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-27 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-28 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-30 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-30 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-31 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-31 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-32 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-33 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-33 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-34 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-35 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-35 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-41 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-41 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-42 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-43 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-44 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-45 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-29-45 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-30-21 make
+2017-04-28.17-30-22 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-30-24 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-30-25 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-30-26 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-30-27 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.17-30-47 make
+2017-04-28.17-30-48 ./action-recognizer --kmeans.model-file=means.gz --kmeans.number-of-clusters=4 
+2017-04-28.19-24-16 make
+2017-04-28.19-24-25 rm means.gz 
+2017-04-28.19-26-53 make
+2017-04-28.19-27-04 make
+2017-04-28.19-27-23 ./action-recognizer --action=stip
+2017-04-28.19-28-32 make
+2017-04-28.19-28-46 ./action-recognizer --action=stip
+2017-04-28.19-29-10 ./action-recognizer --action=stip
+2017-04-28.19-29-15 ./action-recognizer --action=stip
+2017-04-28.19-29-28 make
+2017-04-28.19-29-51 ./action-recognizer --action=stip
+2017-04-28.19-30-06 ./action-recognizer --action=stip
+2017-04-28.19-30-35 make
+2017-04-28.19-30-40 ./action-recognizer --action=stip
+2017-04-28.19-32-16 make
+2017-04-28.19-32-32 ./action-recognizer --action=stip
+2017-04-28.19-35-56 cp -rf ~/squirrel/trunk/src/Features/ .
+2017-04-28.19-35-59 mv Features/ ../
+2017-04-28.20-12-53 ./action-recognizer --action=stip
+2017-04-28.20-13-01 ./action-recognizer --action=stip > out
+2017-04-28.20-13-15 vim out 
+2017-04-28.20-13-16 rm out 
+2017-04-28.20-13-23 make
+2017-04-28.20-13-30 ./action-recognizer --action=stip > out
+2017-04-28.20-14-39 vim out 
+2017-04-28.20-18-48 make
+2017-04-28.20-18-56 make
+2017-04-28.20-19-04 ./action-recognizer --action=stip > out
+2017-04-28.20-19-23 vim out 
+2017-04-28.20-25-29 vim Makefile 
+2017-04-28.20-42-59 make
+2017-04-28.20-43-15 make
+2017-04-28.20-43-24 make
+2017-04-28.20-43-28 make
+2017-04-28.20-43-49 vim Makefile 
+2017-04-28.20-43-51 make
+2017-05-02.11-09-55 make
+2017-05-02.11-19-56 make
+2017-05-02.11-19-59 make
+2017-05-02.14-58-45 make clean
+2017-05-02.14-58-50 make
+2017-05-02.14-58-53 rm test.avi dummy.avi 
+2017-05-02.14-59-06 make
+2017-05-02.14-59-11 make clean
+2017-05-02.14-59-15 make
+2017-05-02.14-59-56 make
+2017-05-02.15-00-17 make
+2017-05-02.15-00-30 make
+2017-05-02.15-00-34 rm out 
+2017-05-02.15-00-38 ./action-recognizer --action=svm-train
+2017-05-02.15-02-33 make
+2017-05-02.15-02-34 ./action-recognizer --action=svm-train
+2017-05-02.15-02-42 ./action-recognizer --action=svm-train --kMeans.model-file=dummy
+2017-05-02.15-02-48 ./action-recognizer --action=svm-train --kmeans.model-file=dummy
+2017-05-02.15-03-58 make
+2017-05-02.15-03-59 ./action-recognizer --action=svm-train --kmeans.model-file=dummy
+2017-05-02.15-04-13 make
+2017-05-02.15-04-14 ./action-recognizer --action=svm-train --kmeans.model-file=dummy
+2017-05-02.15-05-23 make
+2017-05-02.15-05-24 ./action-recognizer --action=svm-train --kmeans.model-file=dummy
+2017-05-02.15-05-41 make
+2017-05-02.15-05-42 ./action-recognizer --action=svm-train --kmeans.model-file=dummy
+2017-05-02.15-26-12 make clean
+2017-05-02.15-26-16 make
+2017-05-02.15-27-45 make
+2017-05-02.15-35-59 make
+2017-05-02.15-37-07 make clean
+2017-05-02.15-37-13 make
+2017-05-02.15-37-16 ./action-recognizer --action=svm-train --kmeans.model-file=dummy
+2017-05-02.15-39-23 vim svm.config
+2017-05-02.15-39-38 vim svm.config 
+2017-05-02.15-39-45 ./action-recognizer --config=svm.config 
+2017-05-02.15-39-56 vim svm.config 
+2017-05-02.15-40-02 ./action-recognizer --config=svm.config 
+2017-05-02.15-40-57 make
+2017-05-02.15-41-11 ./action-recognizer --config=svm.config 
+2017-05-02.15-41-24 printcache ../../experiments/stip/results/train.stip.gz | less
+2017-05-02.15-42-07 ~/squirrel/trunk/src/Features/feature-cache-manager --action=print-cache --*.feature-cache=../../experiments/stip/results/train.stip.gz | less
+2017-05-02.15-42-43 ~/squirrel/trunk/src/Features/feature-cache-manager --action=print-cache --*.feature-cache=../../experiments/stip/results/test.stip.gz | less
+2017-05-02.15-42-56 vim svm.config 
+2017-05-02.15-45-44 ./action-recognizer --config=svm.config 
+2017-05-02.15-45-50 make
+2017-05-02.15-48-43 ./action-recognizer --config=svm.config 
+2017-05-02.15-48-46 make
+2017-05-02.15-51-08 ./action-recognizer --config=svm.config 
+2017-05-02.15-51-14 ./action-recognizer --config=svm.config 
+2017-05-02.15-51-20 export OMP_NUM_THREADS=10
+2017-05-02.15-54-39 ./action-recognizer --config=svm.config 
+2017-05-02.15-54-43 make
+2017-05-02.15-57-15 ./action-recognizer --config=svm.config 
+2017-05-02.16-02-20 ./action-recognizer --config=svm.config 
+2017-05-02.16-02-27 vim ../definitions.make 
+2017-05-02.16-10-10 make
+2017-05-02.16-10-21 make
+2017-05-02.16-11-00 ./action-recognizer --config=svm.config 
+2017-05-02.16-11-43 make
+2017-05-02.16-14-18 ./action-recognizer --config=svm.config 
+2017-05-02.16-15-18 vim svm.config 
+2017-05-02.16-16-16 make
+2017-05-02.16-22-46 ./action-recognizer --config=svm.config 
+2017-05-02.16-31-08 make clean
+2017-05-02.16-31-11 make
+2017-05-02.16-31-48 make
+2017-05-03.11-26-28 make
+2017-05-03.11-26-38 vim .history 
+2017-05-03.11-26-45 ./action-recognizer --config=svm.config 
+2017-05-03.11-26-53 vim svm.config 
+2017-05-03.11-27-34 ./action-recognizer --config=svm.config 
+2017-05-03.11-27-58 vim svm.config 
+2017-05-03.11-28-01 make
+2017-05-03.11-28-46 ./action-recognizer --config=svm.config 
+2017-05-03.11-29-19 vim svm.config 
+2017-05-03.11-29-27 vim svm.config 
+2017-05-03.11-30-32 ./action-recognizer --config=svm.config 
+2017-05-03.11-41-09 vim clusters.matrix.gz 
+2017-05-03.11-41-24 make
+2017-05-03.11-43-01 ./action-recognizer --config=svm.config 
+2017-05-03.11-43-25 make
+2017-05-03.11-45-08 ./action-recognizer --config=svm.config 
+2017-05-03.11-45-11 make
+2017-05-03.11-45-24 ./action-recognizer --config=svm.config 
+2017-05-03.11-50-08 vim ../../experiments/stip/results/test.stip.gz 
+2017-05-03.11-50-28 vim clusters.matrix.gz 
+2017-05-03.11-52-52 make
+2017-05-03.11-52-56 vim ../../experiments/stip/results/test.stip.gz 
+2017-05-03.11-54-01 ./action-recognizer --config=svm.config 
+2017-05-03.11-54-08 vim clusters.matrix.gz 
+2017-05-03.11-57-38 make
+2017-05-03.11-58-49 ./action-recognizer --config=svm.config > uo
+2017-05-03.12-00-02 vim uo 
+2017-05-03.12-00-04 rm uo 
+2017-05-03.12-01-32 make
+2017-05-03.12-02-43 ./action-recognizer --config=svm.config
+2017-05-03.12-03-06 vim clusters.matrix.gz 
+2017-05-03.12-03-07 rm clusters.matrix.gz 
+2017-05-03.12-03-10 make
+2017-05-03.12-03-20 make
+2017-05-03.12-03-22 make
+2017-05-03.12-04-07 ./action-recognizer --config=svm.config
+2017-05-03.12-04-18 vim clusters.matrix.gz 
+2017-05-03.12-04-43 vim ../../experiments/stip/results/test.stip.gz 
+2017-05-03.12-06-22 export OMP_NUM_THREADS=1
+2017-05-03.12-10-59 ./action-recognizer --config=svm.config
+2017-05-03.13-08-59 vim clusters.matrix.gz 
+2017-05-03.13-13-39 make
+2017-05-03.13-13-41 rm clusters.matrix.gz 
+2017-05-03.13-16-31 ./action-recognizer --config=svm.config
+2017-05-03.13-16-51 vim clusters.matrix.gz 
+2017-05-03.13-18-05 vim ../../experiments/stip/results/test.stip.gz 
+2017-05-03.13-20-11 make
+2017-05-03.13-20-23 ./action-recognizer --config=svm.config
+2017-05-03.13-21-03 make
+2017-05-03.13-21-15 ./action-recognizer --config=svm.config >out
+2017-05-03.13-21-51 vim out 
+2017-05-03.13-23-01 make
+2017-05-03.13-23-12 ./action-recognizer --config=svm.config >out
+2017-05-03.13-24-03 vim out 
+2017-05-03.13-24-34 make
+2017-05-03.13-24-36 ./action-recognizer --config=svm.config >out
+2017-05-03.13-24-40 vim out 
+2017-05-03.13-24-51 make
+2017-05-03.13-25-02 ./action-recognizer --config=svm.config >out
+2017-05-03.13-25-06 vim out 
+2017-05-03.13-25-39 make
+2017-05-03.13-25-52 ./action-recognizer --config=svm.config >out
+2017-05-03.13-26-15 vim out 
+2017-05-03.13-27-25 vim out 
+2017-05-03.13-27-53 vim ../../experiments/stip/results/test.stip.gz 
+2017-05-03.13-30-20 make
+2017-05-03.13-30-48 ./action-recognizer --config=svm.config --features.feature-reader.feature-cache=../../experiments/stip/results/test.stip.gz > out
+2017-05-03.13-31-08 vim out 
+2017-05-03.13-31-12 cp ../../experiments/stip/results/test.stip.gz bla.gz
+2017-05-03.13-31-16 vim bla.gz 
+2017-05-03.13-31-19 gunzip bla.gz 
+2017-05-03.13-31-25 vim bla 
+2017-05-03.13-31-31 vim svm.config 
+2017-05-03.13-31-47 ./action-recognizer --config=svm.config --features.feature-reader.feature-cache=bla > out
+2017-05-03.13-31-55 vim out 
+2017-05-03.13-32-01 vim bla 
+2017-05-03.13-33-24 ../Features/feature-cache-manager --action=print-cache --*.feature-cache=bla | less
+2017-05-03.15-27-58 rm clusters.matrix.gz out 
+2017-05-03.15-28-03 rm bla 
+2017-05-03.15-28-06 vim .history 
+2017-05-03.15-28-10 vim svm.config 
+2017-05-03.15-28-46 ./action-recognizer --config=svm.config 
+2017-05-03.15-28-50 ./action-recognizer --config=svm.config 
+2017-05-03.15-28-59 vim svm.config 
+2017-05-03.15-29-23 make clean
+2017-05-03.15-29-29 make
+2017-05-03.15-34-38 ./action-recognizer --config=svm.config 
+2017-05-03.15-34-52 vim clusters.matrix.gz 
+2017-05-03.15-35-42 vim svm.config 
+2017-05-03.15-36-09 ./action-recognizer --config=svm.config 
+2017-05-03.15-36-16 vim clusters.matrix.gz 
+2017-05-03.15-36-20 make
+2017-05-03.15-36-24 vim clusters.matrix.gz 
+2017-05-03.15-42-31 ./action-recognizer --config=svm.config 
+2017-05-03.15-56-39 vim svm.config 
+2017-05-03.15-59-40 make
+2017-05-03.16-02-20 ./action-recognizer --config=svm.config 
+2017-05-03.16-04-36 make
+2017-05-03.16-07-11 ./action-recognizer --config=svm.config 
+2017-05-03.16-09-41 make
+2017-05-03.16-09-49 make clean
+2017-05-03.16-09-55 make
+2017-05-03.16-10-08 ./action-recognizer --config=svm.config 
+2017-05-03.16-10-27 make
+2017-05-03.16-10-37 ./action-recognizer --config=svm.config 
+2017-05-03.16-11-33 vim svm.config 
+2017-05-03.16-11-41 vim ../../experiments/stip/test.labels
+2017-05-03.16-13-24 ../Features/feature-cache-manager --action=print-cache --*.feature-cache=../../experiments/stip/test.labels | less
+2017-05-03.16-15-01 vim ../../experiments/stip/test.labels 
+2017-05-03.16-18-51 make clean
+2017-05-03.16-18-56 make
+2017-05-03.16-19-41 make
+2017-05-03.16-19-47 ../Features/feature-cache-manager --action=print-cache --*.feature-cache=../../experiments/stip/test.labels | less
+2017-05-03.16-20-02 ./action-recognizer --config=svm.config 
+2017-05-03.16-20-38 make
+2017-05-03.16-23-11 ./action-recognizer --config=svm.config 
+2017-05-03.16-23-38 mkdir results
+2017-05-03.16-26-15 ./action-recognizer --config=svm.config 
+2017-05-03.16-58-26 make
+2017-05-03.17-00-28 make
+2017-05-03.17-01-12 make clean
+2017-05-03.17-01-30 make clean
+2017-05-03.17-01-34 make
+2017-05-03.17-02-27 make
+2017-05-03.18-14-07 make
+2017-05-04.11-23-08 vim svm.config 
+2017-05-04.11-23-12 make
+2017-05-04.11-23-19 make
+2017-05-04.11-23-50 vim svm.config 
+2017-05-04.11-23-52 rm clusters.matrix.gz 
+2017-05-04.11-23-57 rm -rf results/
+2017-05-04.11-23-59 make
+2017-05-04.11-24-05 ./action-recognizer --config=svm.config 
+2017-05-04.11-24-25 make
+2017-05-04.11-27-18 make
+2017-05-04.11-30-11 ./action-recognizer --config=svm.config 
+2017-05-04.11-32-37 qstat
+2017-05-04.11-32-51 vim svm.config 
+2017-05-04.11-39-31 ./action-recognizer --config=svm.config 
+2017-05-04.11-41-10 make
+2017-05-04.11-41-23 make
+2017-05-04.13-45-28 make
+2017-05-04.13-45-44 ./action-recognizer --config=svm.config 
+2017-05-04.13-45-52 vim svm.config 
+2017-05-04.13-51-30 make
+2017-05-04.13-51-34 cp action-recognizer ../../experiments/stip/
+2017-05-04.13-55-59 make
+2017-05-04.13-56-00 cp action-recognizer ../../experiments/stip/
+2017-05-04.13-58-26 make
+2017-05-04.13-58-27 cp action-recognizer ../../experiments/stip/
+2017-05-04.13-58-37 make
+2017-05-04.13-58-38 cp action-recognizer ../../experiments/stip/
+2017-05-04.13-58-50 make
+2017-05-04.13-58-51 cp action-recognizer ../../experiments/stip/
+2017-05-04.14-02-01 make
+2017-05-04.14-02-02 cp action-recognizer ../../experiments/stip/
+2017-05-04.14-09-10 make
+2017-05-04.14-09-12 cp action-recognizer ../../experiments/stip/
+2017-05-04.14-12-53 make
+2017-05-04.14-12-54 cp action-recognizer ../../experiments/stip/
+2017-05-04.14-19-43 make
+2017-05-04.14-19-46 cp action-recognizer ../../experiments/stip/
+2017-05-04.14-22-48 make
+2017-05-04.14-23-16 cp action-recognizer ../../experiments/stip/
+2017-05-04.14-26-20 make
+2017-05-04.14-27-00 make
+2017-05-04.14-27-32 cp action-recognizer ../../experiments/stip/
+2017-05-04.14-41-01 make
+2017-05-04.14-41-02 cp action-recognizer ../../experiments/stip/
+2017-05-04.14-42-24 make
+2017-05-04.14-48-06 make
+2017-05-04.14-48-07 cp action-recognizer ../../experiments/stip/
+2017-05-04.15-00-14 make
+2017-05-04.15-01-55 make
+2017-05-04.15-02-11 make
+2017-05-04.15-02-12 cp action-recognizer ../../experiments/stip/
+2017-05-04.15-06-27 make
+2017-05-04.15-06-28 cp action-recognizer ../../experiments/stip/
+2017-05-04.15-09-25 make
+2017-05-04.15-09-26 cp action-recognizer ../../experiments/stip/
+2017-05-04.15-14-34 make clean
+2017-05-04.15-14-40 make
+2017-05-04.15-14-42 cp action-recognizer ../../experiments/stip/
+2017-05-04.15-19-26 make
+2017-05-04.15-19-27 cp action-recognizer ../../experiments/stip/
+2017-05-04.15-25-40 make
+2017-05-04.15-25-56 make
+2017-05-04.15-25-59 cp action-recognizer ../../experiments/stip/
+2017-05-04.15-28-50 make
+2017-05-04.15-38-28 make
+2017-05-04.15-38-40 make
+2017-05-04.15-38-41 cp action-recognizer ../../experiments/stip/
+2017-05-04.15-57-18 make
+2017-05-04.15-57-44 make
+2017-05-04.16-06-05 vim ../definitions.make 
+2017-05-05.10-54-48 vim Makefile 
+2017-05-05.10-54-50 make clean
+2017-05-05.10-54-56 make
+2017-05-05.11-14-31 make clean
+2017-05-05.11-14-38 make
+2017-05-05.11-20-57 make
+2017-05-05.11-28-07 cp Svm.cc Svm.cc.bk
+2017-05-05.11-28-13 cp Svm.hh Svm.hh.bk
+2017-05-05.11-28-19 make
+2017-05-05.11-28-58 lks
+2017-05-05.11-29-10 vim Svm.cc.bk 
+2017-05-05.11-30-43 make clean
+2017-05-05.11-30-50 make
+2017-05-05.11-40-51 make
+2017-05-05.11-44-53 make clean
+2017-05-05.11-45-00 make
+2017-05-05.11-48-12 make
+2017-05-05.11-50-50 make
+2017-05-05.11-50-52 make clean
+2017-05-05.11-50-58 make
+2017-05-05.11-53-30 make clean
+2017-05-05.11-53-37 make
+2017-05-05.11-54-30 make
+2017-05-05.11-54-33 make clean
+2017-05-05.11-54-39 make
+2017-05-05.11-56-04 make clean
+2017-05-05.11-56-10 make
+2017-05-05.11-59-40 make
+2017-05-05.12-03-21 mv Svm.cc.bk Svm.cc
+2017-05-05.12-03-26 mv Svm.hh.bk Svm.hh
+2017-05-05.12-03-38 make
+2017-05-05.12-03-39 make clean
+2017-05-05.12-03-46 make
+2017-05-05.13-18-48 vim Stip.cc 
+2017-05-05.14-27-32 qstat

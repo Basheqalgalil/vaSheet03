@@ -1,0 +1,10 @@
+2016-12-19.11-49-16 vim training.config 
+2016-12-23.14-11-27 cp recognition.config recognition.framewise.config
+2016-12-23.14-14-32 vim recognition.config 
+2017-01-18.15-29-05 rm recognition.framewise.config 
+2017-01-18.15-29-10 vim recognition.config 
+2017-05-24.16-09-08 rm recognition.config 
+2017-05-24.16-09-12 cp training.config forward.config
+2017-05-24.16-14-24 vim forward.config 
+2017-05-24.16-15-03 vim forward.config 
+2017-05-24.16-45-09 vim forward.config 
