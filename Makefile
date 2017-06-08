@@ -1,4 +1,4 @@
-SUBDIRS := Core Math Features ActionRecognition
+SUBDIRS := Core Math Features ActionRecognition Nn
 
 all: build
 

@@ -7,9 +7,9 @@ MODULE_CUDNN := 1
 
 # TODO change to your paths. If you don't want to use Intel MKL, give the path to another blas/lapack library
 MKLROOT := /opt/intel/mkl
-CUDAROOT := /usr/local/cuda
-OPENCVROOT := /usr/local
-CUDNNROOT := /home/ahsan/lib/cudnn5
+CUDAROOT := /media/data/sabaa/cuda/cuda-8.0
+OPENCVROOT := /media/remote_home/va05/lib/opencv2.4
+CUDNNROOT := /media/remote_home/va05/cuda
 
 ### G++ ###
 CC := g++
