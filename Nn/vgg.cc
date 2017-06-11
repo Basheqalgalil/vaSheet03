@@ -13,7 +13,7 @@ void vgg::createTemporalFramesFromVideo(const std::string& filename){
    Video video ;
    readVideo(filename,video);
 
-   for (int i = 0 ; i < video.size()-11,i++){
+   for (int i = 0 ; i < video.size()-11;i++){
        cv::Mat c10Image(video[0].rows*20,video[0].cols,CV_8U);
        for (int l = 0 ; l < 10 ; l ++){
            cv::Mat tmpFlow;
@@ -22,7 +22,7 @@ void vgg::createTemporalFramesFromVideo(const std::string& filename){
            cv::split(tmpFlow, tmpXY);
 
            for (int ii = 0 ; ii < video.at(0).rows;ii++){
-               for (int jj = 0 ; jj < video.at(0).cols, jj++){
+               for (int jj = 0 ; jj < video.at(0).cols; jj++){
                    c10Image.at<uchar>((ii*20)+l,jj) = tmpXY[0].at<uchar>(ii,jj);
                    c10Image.at<uchar>((ii*20)+l+1,jj) = tmpXY[1].at<uchar>(ii,jj);
                }
