@@ -7,10 +7,10 @@ vgg::vgg():
     VideosDirectory_(Core::Configuration::config(paramVideosDirectory_))
 {
 }
-void prepareVideoForTemporalStream(){
+void vgg::prepareVideoForTemporalStream(){
 
 }
-void createTemporalFramesFromVideo(const std::string& filename){
+void vgg::createTemporalFramesFromVideo(const std::string& filename){
    Video video ;
    readVideo(filename,video);
 

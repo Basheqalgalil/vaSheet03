@@ -8,10 +8,11 @@
 #include <opencv2/imgproc/imgproc.hpp>
 #include <opencv2/video/tracking.hpp>
 
+typedef std::vector<cv::Mat> Video;
+
 class vgg
 {
 private:
-    typedef std::vector<cv::Mat> Video;
 
     static const Core::ParameterString paramVideosDirectory_;
 
