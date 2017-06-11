@@ -18,6 +18,9 @@ private:
 
     std::string VideosDirectory_;
 
+    static const Core::ParameterString paramVideoList_;
+    std::string videoList_;
+
     void createTemporalFramesFromVideo(const std::string& filename);
     void readVideo(const std::string& filename, Video& result);
 public:
