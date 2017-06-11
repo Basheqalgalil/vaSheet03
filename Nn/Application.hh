@@ -26,7 +26,7 @@ class NeuralNetworkApplication {
 private:
 	static const Core::ParameterEnum paramAction_;
 	static const Core::ParameterInt paramBatchSize_;
-	enum Action { none, training, forwarding };
+    enum Action { none, training, forwarding,prpareTemporal };
 	u32 batchSize_;
 private:
 	void initialize();
