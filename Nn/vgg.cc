@@ -21,7 +21,7 @@ void vgg::createTemporalFramesFromVideo(const std::string& filename){
            cv::calcOpticalFlowFarneback(video.at(i+l), video.at(i+l+1), tmpFlow, 0.702, 5, 10, 2, 7, 1.5, cv::OPTFLOW_FARNEBACK_GAUSSIAN );
            cv::split(tmpFlow, tmpXY);
 
-           for (int ii = 0 ; ii < video.at(0).rows,ii++){
+           for (int ii = 0 ; ii < video.at(0).rows;ii++){
                for (int jj = 0 ; jj < video.at(0).cols, jj++){
                    c10Image.at<uchar>((ii*20)+l,jj) = tmpXY[0].at<uchar>(ii,jj);
                    c10Image.at<uchar>((ii*20)+l+1,jj) = tmpXY[1].at<uchar>(ii,jj);
