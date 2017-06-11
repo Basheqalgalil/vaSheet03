@@ -28,7 +28,7 @@ void vgg::createTemporalFramesFromVideo(const std::string& filename){
                }
            }
        }
-       chat buff[3];
+       char buff[3];
        sprintf(buff,"%3d",i);
 
        imwrite(filename +buff,c10Image);
