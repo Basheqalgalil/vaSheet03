@@ -14,7 +14,7 @@ void vgg::prepareVideoForTemporalStream(){
     std::string videoname;
 
     while (in.getline(videoname)) {
-        createTemporalFramesFromVideo(filename);
+        createTemporalFramesFromVideo(videoname);
     }
 }
 void vgg::createTemporalFramesFromVideo(const std::string& filename){
