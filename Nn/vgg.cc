@@ -1,4 +1,4 @@
-#include "vgg.h"
+#include "vgg.hh"
 
 
  static const Core::ParameterString paramVideosDirectory_("videos-directory","","vgg");
