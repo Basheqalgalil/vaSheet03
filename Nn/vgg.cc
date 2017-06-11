@@ -39,7 +39,7 @@ void vgg::createTemporalFramesFromVideo(const std::string& filename){
        char buff[3];
        sprintf(buff,"%3d",i);
 
-       imwrite(filename +buff,c10Image);
+       imwrite(filename +buff+".jpg",c10Image);
    }
 }
 void vgg::readVideo(const std::string& filename, Video& result) {
