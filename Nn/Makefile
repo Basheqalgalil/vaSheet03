@@ -18,7 +18,8 @@ OBJECTS = NeuralNetwork.o \
           GradientBasedTrainer.o \
           LearningRateSchedule.o \
           TrainingCriteria.o \
-          MultiPortLayer.o 
+          MultiPortLayer.o \
+	  vgg.o
 
 OBJ = $(patsubst %, objects/%, $(OBJECTS))
 
