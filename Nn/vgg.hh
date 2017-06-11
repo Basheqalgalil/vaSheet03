@@ -13,11 +13,6 @@ typedef std::vector<cv::Mat> Video;
 class vgg
 {
 private:
-
-    static const Core::ParameterString paramVideosDirectory_;
-
-    std::string VideosDirectory_;
-
     static const Core::ParameterString paramVideoList_;
     std::string videoList_;
 
