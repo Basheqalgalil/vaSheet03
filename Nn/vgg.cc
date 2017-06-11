@@ -1,13 +1,21 @@
 #include "vgg.hh"
 
- const Core::ParameterString vgg::paramVideosDirectory_("videos-directory","","vgg");
+const Core::ParameterString vgg::paramVideoList_("video-list", "", "vgg");
 
 vgg::vgg():
-    VideosDirectory_(Core::Configuration::config(paramVideosDirectory_))
+    videoList_(Core::Configuration::config(paramVideoList_))
 {
 }
 void vgg::prepareVideoForTemporalStream(){
+    if (videoList_.empty())
+        Core::Error::msg("vgg.video-list must not be empty.") << Core::Error::abort;
 
+    Core::AsciiStream in(videoList_, std::ios::in);
+    std::string videoname;
+
+    while (in.getline(videoname)) {
+        createTemporalFramesFromVideo(filename);
+    }
 }
 void vgg::createTemporalFramesFromVideo(const std::string& filename){
    Video video ;
