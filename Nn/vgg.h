@@ -1,0 +1,27 @@
+#ifndef VGG_H
+#define VGG_H
+
+#include "Core/CommonHeaders.hh" // Core::Log, Core::Error, Core::Configuration, Types
+
+#include <opencv2/core/core.hpp>
+#include <opencv2/highgui/highgui.hpp>
+#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv2/video/tracking.hpp>
+
+class vgg
+{
+private:
+    typedef std::vector<cv::Mat> Video;
+
+    static const Core::ParameterString paramVideosDirectory_;
+
+    std::string VideosDirectory_;
+
+    void createTemporalFramesFromVideo(const std::string& filename);
+    void readVideo(const std::string& filename, Video& result);
+public:
+    vgg();
+    void prepareVideoForTemporalStream();
+};
+
+#endif // VGG_H
