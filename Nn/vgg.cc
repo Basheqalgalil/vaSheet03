@@ -1,7 +1,6 @@
 #include "vgg.hh"
 
-
- static const Core::ParameterString vgg::paramVideosDirectory_("videos-directory","","vgg");
+ const Core::ParameterString vgg::paramVideosDirectory_("videos-directory","","vgg");
 
 vgg::vgg():
     VideosDirectory_(Core::Configuration::config(paramVideosDirectory_))
