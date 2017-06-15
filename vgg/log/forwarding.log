@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration-tree>
+   |-
+     |-log-file:log/forwarding.log
+     |-action:forwarding
+     |-source-type:sequence
+     |-target-type:sequence
+     |-batch-size:1
+     |-features
+       |-feature-reader
+         |-feature-cache:features/test.frames
+         |-preprocessors:subtract-mean
+         |-buffer-size:1
+       |-feature-writer
+         |-feature-cache:test.dump
+     |-subtract-mean
+       |-type:vector-subtraction
+       |-vector:imagenet/mean.vector.gz
+     |-forwarder
+       |-task:dump-output
+     |-neural-network
+       |-connections:conv1_1,conv1_2,pool1,conv2_1,conv2_2,pool2,conv3_1,conv3_2,conv3_3,pool3,conv4_1,conv4_2,conv4_3,pool4,conv5_1,conv5_2,conv5_3,pool5,fc6,fc7,fc8
+       |-input-dimension:150528
+       |-source-width:224
+       |-source-height:224
+       |-source-channels:3
+       |-conv1_1
+         |-from:network-input
+         |-to:relu1_1
+         |-type:convolutional-connection
+         |-kernel-width:3
+         |-kernel-height:3
+         |-dest-channels:64
+       |-conv1_2
+         |-from:relu1_1
+         |-to:relu1_2
+         |-type:convolutional-connection
+         |-kernel-width:3
+         |-kernel-height:3
+         |-dest-channels:64
+       |-pool1
+         |-from:relu1_2
+         |-to:maxpool1
+         |-type:plain-connection
+       |-conv2_1
+         |-from:maxpool1
+         |-to:relu2_1
+         |-type:convolutional-connection
+         |-kernel-width:3
+         |-kernel-height:3
+         |-dest-channels:128
+       |-conv2_2
+         |-from:relu2_1
+         |-to:relu2_2
+         |-type:convolutional-connection
+         |-kernel-width:3
+         |-kernel-height:3
+         |-dest-channels:128
+       |-pool2
+         |-from:relu2_2
+         |-to:maxpool2
+         |-type:plain-connection
+       |-conv3_1
+         |-from:maxpool2
+         |-to:relu3_1
+         |-type:convolutional-connection
+         |-kernel-width:3
+         |-kernel-height:3
+         |-dest-channels:256
+       |-conv3_2
+         |-from:relu3_1
+         |-to:relu3_2
+         |-type:convolutional-connection
+         |-kernel-width:3
+         |-kernel-height:3
+         |-dest-channels:256
+       |-conv3_3
+         |-from:relu3_2
+         |-to:relu3_3
+         |-type:convolutional-connection
+         |-kernel-width:3
+         |-kernel-height:3
+         |-dest-channels:256
+       |-pool3
+         |-from:relu3_3
+         |-to:maxpool3
+         |-type:plain-connection
+       |-conv4_1
+         |-from:maxpool3
+         |-to:relu4_1
+         |-type:convolutional-connection
+         |-kernel-width:3
+         |-kernel-height:3
+         |-dest-channels:512
+       |-conv4_2
+         |-from:relu4_1
+         |-to:relu4_2
+         |-type:convolutional-connection
+         |-kernel-width:3
+         |-kernel-height:3
+         |-dest-channels:512
+       |-conv4_3
+         |-from:relu4_2
+         |-to:relu4_3
+         |-type:convolutional-connection
+         |-kernel-width:3
+         |-kernel-height:3
+         |-dest-channels:512
+       |-pool4
+         |-from:relu4_3
+         |-to:maxpool4
+         |-type:plain-connection
+       |-conv5_1
+         |-from:maxpool4
+         |-to:relu5_1
+         |-type:convolutional-connection
+         |-kernel-width:3
+         |-kernel-height:3
+         |-dest-channels:512
+       |-conv5_2
+         |-from:relu5_1
+         |-to:relu5_2
+         |-type:convolutional-connection
+         |-kernel-width:3
+         |-kernel-height:3
+         |-dest-channels:512
+       |-conv5_3
+         |-from:relu5_2
+         |-to:relu5_3
+         |-type:convolutional-connection
+         |-kernel-width:3
+         |-kernel-height:3
+         |-dest-channels:512
+       |-pool5
+         |-from:relu5_3
+         |-to:maxpool5
+         |-type:plain-connection
+       |-fc6
+         |-from:maxpool5
+         |-to:layer-6
+         |-type:weight-connection
+       |-fc7
+         |-from:layer-6
+         |-to:layer-7
+         |-type:weight-connection
+       |-fc8
+         |-from:layer-7
+         |-to:layer-8
+         |-type:weight-connection
+       |-relu1_1
+         |-type:rectified
+       |-relu1_2
+         |-type:rectified
+       |-maxpool1
+         |-type:max-pooling
+         |-grid-size:2
+         |-stride:2
+         |-use-bias:false
+         |-use-cudnn:false
+       |-relu2_1
+         |-type:rectified
+       |-relu2_2
+         |-type:rectified
+       |-maxpool2
+         |-type:max-pooling
+         |-grid-size:2
+         |-stride:2
+         |-use-bias:false
+         |-use-cudnn:false
+       |-relu3_1
+         |-type:rectified
+       |-relu3_2
+         |-type:rectified
+       |-relu3_3
+         |-type:rectified
+       |-maxpool3
+         |-type:max-pooling
+         |-grid-size:2
+         |-stride:2
+         |-use-bias:false
+         |-use-cudnn:false
+       |-relu4_1
+         |-type:rectified
+       |-relu4_2
+         |-type:rectified
+       |-relu4_3
+         |-type:rectified
+       |-maxpool4
+         |-type:max-pooling
+         |-grid-size:2
+         |-stride:2
+         |-use-bias:false
+         |-use-cudnn:false
+       |-relu5_1
+         |-type:rectified
+       |-relu5_2
+         |-type:rectified
+       |-relu5_3
+         |-type:rectified
+       |-maxpool5
+         |-type:max-pooling
+         |-grid-size:2
+         |-stride:2
+         |-use-bias:false
+         |-use-cudnn:false
+       |-layer-6
+         |-number-of-units:4096
+         |-type:rectified
+         |-dropout-probability:0.0
+       |-layer-7
+         |-number-of-units:4096
+         |-type:rectified
+         |-dropout-probability:0.0
+       |-layer-8
+         |-number-of-units:12
+         |-type:softmax
+       |-load-model-from:results
+     |-config:config/forward.config
+</configuration-tree>
+<cuda>
+  using 1 of 2 GPUs
+</cuda>
+<feature-cache.information features/test.frames>
+  feature type: videos
+  total number of feature vectors: 3791
+  feature vector dimension: 150528
+  number of feature sequences: 89
+</feature-cache.information>
+Create vector-subtraction preprocessor as subtract-mean.
+<neural-network.initialize>
+  Create rectified layer.
+  Create Convolutional Connection.
+  Create rectified layer.
+  Create Convolutional Connection.
+  Create max-pooling layer.
+  Create Plain Connection.
+  Create rectified layer.
+  Create Convolutional Connection.
+  Create rectified layer.
+  Create Convolutional Connection.
+  Create max-pooling layer.
+  Create Plain Connection.
+  Create rectified layer.
+  Create Convolutional Connection.
+  Create rectified layer.
+  Create Convolutional Connection.
+  Create rectified layer.
+  Create Convolutional Connection.
+  Create max-pooling layer.
+  Create Plain Connection.
+  Create rectified layer.
+  Create Convolutional Connection.
+  Create rectified layer.
+  Create Convolutional Connection.
+  Create rectified layer.
+  Create Convolutional Connection.
+  Create max-pooling layer.
+  Create Plain Connection.
+  Create rectified layer.
+  Create Convolutional Connection.
+  Create rectified layer.
+  Create Convolutional Connection.
+  Create rectified layer.
+  Create Convolutional Connection.
+  Create max-pooling layer.
+  Create Plain Connection.
+  Create rectified layer.
+  Create rectified layer.
+  Create softmax layer.
+  <topological-order>
+    relu1_1
+    relu1_2
+    maxpool1
+    relu2_1
+    relu2_2
+    maxpool2
+    relu3_1
+    relu3_2
+    relu3_3
+    maxpool3
+    relu4_1
+    relu4_2
+    relu4_3
+    maxpool4
+    relu5_1
+    relu5_2
+    relu5_3
+    maxpool5
+    layer-6
+    layer-7
+    layer-8
+  </topological-order>
+  <neural-network.topology>
+    <relu1_1>
+      incoming connections to input port 0: network-input:port-0
+      outgoing connections from output port 0: relu1_2:port-0
+    </relu1_1>
+    <relu1_2>
+      incoming connections to input port 0: relu1_1:port-0
+      outgoing connections from output port 0: maxpool1:port-0
+    </relu1_2>
+    <maxpool1>
+      incoming connections to input port 0: relu1_2:port-0
+      outgoing connections from output port 0: relu2_1:port-0
+    </maxpool1>
+    <relu2_1>
+      incoming connections to input port 0: maxpool1:port-0
+      outgoing connections from output port 0: relu2_2:port-0
+    </relu2_1>
+    <relu2_2>
+      incoming connections to input port 0: relu2_1:port-0
+      outgoing connections from output port 0: maxpool2:port-0
+    </relu2_2>
+    <maxpool2>
+      incoming connections to input port 0: relu2_2:port-0
+      outgoing connections from output port 0: relu3_1:port-0
+    </maxpool2>
+    <relu3_1>
+      incoming connections to input port 0: maxpool2:port-0
+      outgoing connections from output port 0: relu3_2:port-0
+    </relu3_1>
+    <relu3_2>
+      incoming connections to input port 0: relu3_1:port-0
+      outgoing connections from output port 0: relu3_3:port-0
+    </relu3_2>
+    <relu3_3>
+      incoming connections to input port 0: relu3_2:port-0
+      outgoing connections from output port 0: maxpool3:port-0
+    </relu3_3>
+    <maxpool3>
+      incoming connections to input port 0: relu3_3:port-0
+      outgoing connections from output port 0: relu4_1:port-0
+    </maxpool3>
+    <relu4_1>
+      incoming connections to input port 0: maxpool3:port-0
+      outgoing connections from output port 0: relu4_2:port-0
+    </relu4_1>
+    <relu4_2>
+      incoming connections to input port 0: relu4_1:port-0
+      outgoing connections from output port 0: relu4_3:port-0
+    </relu4_2>
+    <relu4_3>
+      incoming connections to input port 0: relu4_2:port-0
+      outgoing connections from output port 0: maxpool4:port-0
+    </relu4_3>
+    <maxpool4>
+      incoming connections to input port 0: relu4_3:port-0
+      outgoing connections from output port 0: relu5_1:port-0
+    </maxpool4>
+    <relu5_1>
+      incoming connections to input port 0: maxpool4:port-0
+      outgoing connections from output port 0: relu5_2:port-0
+    </relu5_1>
+    <relu5_2>
+      incoming connections to input port 0: relu5_1:port-0
+      outgoing connections from output port 0: relu5_3:port-0
+    </relu5_2>
+    <relu5_3>
+      incoming connections to input port 0: relu5_2:port-0
+      outgoing connections from output port 0: maxpool5:port-0
+    </relu5_3>
+    <maxpool5>
+      incoming connections to input port 0: relu5_3:port-0
+      outgoing connections from output port 0: layer-6:port-0
+    </maxpool5>
+    <layer-6>
+      incoming connections to input port 0: maxpool5:port-0
+      outgoing connections from output port 0: layer-7:port-0
+    </layer-6>
+    <layer-7>
+      incoming connections to input port 0: layer-6:port-0
+      outgoing connections from output port 0: layer-8:port-0
+    </layer-7>
+    <layer-8>
+      incoming connections to input port 0: layer-7:port-0
+      outgoing connections from output port 0:
+    </layer-8>
+  </neural-network.topology>
+  Layer relu1_1:0: read bias from results/bias-relu1_1.vector.gz
+  Layer relu1_2:0: read bias from results/bias-relu1_2.vector.gz
+  Layer relu2_1:0: read bias from results/bias-relu2_1.vector.gz
+  Layer relu2_2:0: read bias from results/bias-relu2_2.vector.gz
+  Layer relu3_1:0: read bias from results/bias-relu3_1.vector.gz
+  Layer relu3_2:0: read bias from results/bias-relu3_2.vector.gz
+  Layer relu3_3:0: read bias from results/bias-relu3_3.vector.gz
+  Layer relu4_1:0: read bias from results/bias-relu4_1.vector.gz
+  Layer relu4_2:0: read bias from results/bias-relu4_2.vector.gz
+  Layer relu4_3:0: read bias from results/bias-relu4_3.vector.gz
+  Layer relu5_1:0: read bias from results/bias-relu5_1.vector.gz
+  Layer relu5_2:0: read bias from results/bias-relu5_2.vector.gz
+  Layer relu5_3:0: read bias from results/bias-relu5_3.vector.gz
+  Layer layer-6:0: read bias from results/bias-layer-6.vector.gz
+  Layer layer-7:0: read bias from results/bias-layer-7.vector.gz
+  Layer layer-8:0: read bias from results/bias-layer-8.vector.gz
+  Connection conv1_1: read weight matrix from results/weights-conv1_1.matrix.gz
+  Connection conv1_2: read weight matrix from results/weights-conv1_2.matrix.gz
+  Connection conv2_1: read weight matrix from results/weights-conv2_1.matrix.gz
+  Connection conv2_2: read weight matrix from results/weights-conv2_2.matrix.gz
+  Connection conv3_1: read weight matrix from results/weights-conv3_1.matrix.gz
+  Connection conv3_2: read weight matrix from results/weights-conv3_2.matrix.gz
+  Connection conv3_3: read weight matrix from results/weights-conv3_3.matrix.gz
+  Connection conv4_1: read weight matrix from results/weights-conv4_1.matrix.gz
+  Connection conv4_2: read weight matrix from results/weights-conv4_2.matrix.gz
+  Connection conv4_3: read weight matrix from results/weights-conv4_3.matrix.gz
+  Connection conv5_1: read weight matrix from results/weights-conv5_1.matrix.gz
+  Connection conv5_2: read weight matrix from results/weights-conv5_2.matrix.gz
+  Connection conv5_3: read weight matrix from results/weights-conv5_3.matrix.gz
+  Connection fc6: read weight matrix from results/weights-fc6.matrix.gz
+  Connection fc7: read weight matrix from results/weights-fc7.matrix.gz
+  Connection fc8: read weight matrix from results/weights-fc8.matrix.gz
+</neural-network.initialize>
+<math.random>
+  invoke srand with seed 783950
+</math.random>
+<features.feature-writer>
+  Wrote cache test.dump
+</features.feature-writer>
