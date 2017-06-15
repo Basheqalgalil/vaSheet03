@@ -37,7 +37,7 @@ void vgg::createTemporalFramesFromVideo(const std::string& filename){
            }
        }
        char buff[3];
-       sprintf(buff,3,"%03d",i);
+       sprintf(buff,"%03d",i);
 
        imwrite(filename +buff+".jpg",c10Image);
    }
