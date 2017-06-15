@@ -157,7 +157,7 @@ public:
 	enum LayerType { identity, sigmoid, tanh, softmax, max, exponential, logarithmic, rectified, triangle, clipped,
 		l2normalization, powerNormalization, polynomialPreprocessing, fisherEncoding, sequenceLengthNormalization,
 		featureCloning, approximateFeatureMap, modulatedSum, maxout, multiplication, temporalAveraging, concatenation, gatedRecurrentUnit,
-		attention, maxPoolingLayer, avgPoolingLayer, batchNormalizationLayer, temporalReversion, preProcessing };
+        attention, maxPoolingLayer, avgPoolingLayer, batchNormalizationLayer, temporalReversion, preProcessing, myBatchNormalization };
 protected:
 	enum ParamInitialization { random, zero };
 	// layer type

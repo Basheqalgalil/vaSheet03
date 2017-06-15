@@ -230,8 +230,8 @@ const Core::ParameterEnum Layer::paramLayerType_("type",
 		"identity, sigmoid, tanh, softmax, max, exponential, logarithmic, rectified, triangle, clipped,"
 		"l2-normalization, power-normalization, polynomial-preprocessing, fisher-encoding, sequence-length-normalization,"
 		"feature-cloning, approximate-feature-map, modulated-sum, maxout, multiplication, temporal-averaging, concatenation, gated-recurrent-unit,"
-		"attention, max-pooling, avg-pooling, batch-normalization, temporal-reversion, pre-processing",
-		"identity", "neural-network.layer");
+        "attention, max-pooling, avg-pooling, batch-normalization, temporal-reversion, pre-processing, my-batch-normalization",
+        "identity", "neural-network.layer");
 
 const Core::ParameterBool Layer::paramUseBias_("use-bias", true, "neural-network.layer");
 
@@ -635,6 +635,10 @@ Layer* Layer::createLayer(const char* name) {
 		Core::Log::os("Create pre-processing layer.");
 		layer = new PreProcessingLayer(name);
 		break;
+    case myBatchNormalization:
+        Core::Log::os("Create myBatchNormalization layer.");
+        layer = new myBatchNormalization(name);
+        break;
 	case identity:
 	default:
 		Core::Log::os("Create identity layer.");
